@@ -1,74 +1,48 @@
-Constitution Adoption Declaration
+Déclaration d'adoption de la Constitution
+
 =================================
 
-The Ratifier(s) named below hereby adopt the following sections of the Holacracy Constitution v5.0 as the governance and operating framework for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (the “Organization”):
+Le ou les Ratificateurs nommés ci-dessous adoptent par la présente les sections suivantes de la Constitution Holacracy v5.0 comme cadre de gouvernance et de fonctionnement de  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (l 'Organisation) :
 
-#### [ X ] Article 1: Organizational Structure
+#### [ X ] Article 1 : Structure organisationnelle
+L'article 1 est requis pour utiliser toutes les autres règles de la Constitution.
+#### [\_\_] Article 2 : Structure d’autorité distribuée
+Si cet article n'est pas adopté, les Leaders de Rôle doivent aligner toutes leurs actions et décisions sur toute orientation ou directive donnée par un Leader de Cercle de leur Cercle ou de tout autre Cercle plus large, sauf indication contraire d'un Leader de Cercle plus large ou par les Ratificateurs.
+#### [\_\_] Article 3 : Réunions Tactiques
+Si cet article n'est pas adopté, l'Organisation maintiendra ses habitudes de réunion actuelles, jusqu'à ce qu’un Leader du Cercle d’un Cercle ne modifie cela pour son Cercle, ou jusqu'à ce qu'il en soit spécifié autrement par un Leader de Cercle plus large ou par les Ratificateurs.
+#### [\_\_] Article 4 : Règles de coopération
+Si cet article n'est pas adopté, les Leader de Cercle peuvent spécifier les devoirs d'un Partenaire de coopérer avec les autres lorsqu’ils travaillent au sein de leur Cercle, sauf indication contraire d'un Leader de Cercle plus large ou des Ratificateurs.
+#### [\_\_] Article 5 : Processus de Gouvernance
+Si cet article n'est pas adopté, les Leaders de Cercle peuvent exclusivement modifier la Gouvernance au sein de leur Cercle à tout moment ou permettre à d'autres de le faire, et résoudre tout conflit d'interprétation de la Gouvernance de leur Cercle, sauf indication contraire par un Leader de Cercle plus large ou par les Ratificateurs.
 
-- Article 1 is required to use any other rules of the Constitution.
+**Adopté en date du ____________________, par :**
 
-#### [\_\_] Article 2: Tactical Meetings
+*Signatures des Ratificateurs :*
 
-- If Article 2 is not adopted, the Organization will continue its current meeting habits, until otherwise changed by a Circle Lead for their Circle, or until otherwise specified by a broader Circle Lead or by the Ratifiers.
+x \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Nom:
+Titre:
 
-#### [\_\_] Article 3: Duties to Others
+x \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Nom:
+Titre:
 
-- If Article 3 is not adopted, Circle Leads may specify the duties a Role Lead has to other Role Leads within their Circle, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
+x \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Nom:
+Titre:
 
-#### [\_\_] Article 4: Governance
+**Les Ratificateurs ci-dessus désignent par les présentes les personnes suivantes comme Partenaires initiaux de l'Organisation, et ces partenaires acceptent par les présentes de faire tout leur possible pour respecter les termes de la Constitution dans la mesure où elle est adoptée par l'Organisation.**
 
-- If Article 4 is not adopted, Circle Leads exclusively may edit the Governance within their Circle at any time or allow others to do so, and resolve any conflicts of interpretation of their Circle's Governance, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
+*Signatures des Partenaires :*
 
-#### [\_\_] Article 5: Authority of Role Leads
+x \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Nom:
 
-- If Article 5 is not adopted, Role Leads must align all actions and decisions with any guidance or directions given by a Circle Lead of their Circle or any broader Circle, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
+x \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Nom:
 
-#### [\_\_] Article 6: People & Partnership
+x \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Nom:
 
-- If Article 6 is not adopted, the Ratifiers may specify the process for adding and removing Partners of the Organization, and anyone they empower to make that decision may further specify the expectations and agreements required of Partners.
-
----
-
-**Adopted this \_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_ by:**
-
-*Ratifier Signatures:*
-
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name:
-
-Title:
-
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name:
-
-Title:
-
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name:
-
-Title:
-
----
-
-**The Partners of the Organization signed below hereby agree to use best efforts to abide by the terms of the Constitution adopted by the Organization.**
-
-*Partner Signatures:*
-
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name:
-
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name:
-
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name:
-
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name:
+x \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Nom:
