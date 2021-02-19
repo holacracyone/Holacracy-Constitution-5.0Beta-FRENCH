@@ -18,8 +18,6 @@ HolacracyOne n'est pas un cabinet d'avocats et la Constitution ne doit pas être
 ### Licence et utilisation
 Comme Linux®, Wikipedia® et Java®, Holacracy® est une marque déposée; dans ce cas, de HolacracyOne LLC. Et comme les autres administrateurs de plates-formes ouvertes, HolacracyOne vise à maintenir l'intégrité de sa marque et la qualité de ce qu'elle représente. Nous vous invitons donc à créer et à partager vos propres œuvres dérivées de la Constitution Holacracy®, conformément aux termes de notre licence open source CC BY-SA 4.0, et à indiquer que votre travail est dérivé de la Constitution officielle d'Holacracy - veuillez inclure un lien vers http://holacracy.org/constitution. Cependant, au-delà de cette référence, vous ne pouvez pas nommer ou autrement marquer votre travail dérivé en utilisant la marque Holacracy, pour éviter toute confusion entre votre version et le document officiel Holacracy. Si vous avez des questions, veuillez contacter HolacracyOne!
 
- version and the official Holacracy document. If you have any questions, please <a href="http://www.holacracy.org/contact/" target="_blank">contact HolacracyOne</a>!
-
 ### Contributeurs
 Jusqu'à la version 4.0, la Holacracy Constitution a été développée par Brian Robertson et HolacracyOne.
 
