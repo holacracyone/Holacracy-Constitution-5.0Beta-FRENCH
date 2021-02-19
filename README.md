@@ -9,11 +9,8 @@ La Constitution est censée être référencée par une déclaration ou un accor
 
 ### Ce que la Constitution de l'Holacratie n'est pas :
 La Constitution Holacratie **n'est pas un ensemble complet de statuts ni un accord de fonctionnement formel.**
+
 La Constitution **n'est pas non plus un manuel d'instructions ni un guide pour apprendre** à utiliser le l’Holacratie. Comme le livre de règles du jeux d'un sport, il peut parfois servir de référence, mais sa lecture ne vous apprendra pas à jouer au jeu.
-
-
-
-The Constitution is also **not an instruction manual or a guidebook** for learning to use the Holacracy framework. Like the rulebook for a sport, it can serve as a critical reference at times, but reading it will not teach you how to play the game. If you're looking for an introduction, check out HolacracyOne's <a href="http://holacracy.org" target="_blank">website</a>.
 
 ### Avertissement légal
 HolacracyOne n'est pas un cabinet d'avocats et la Constitution ne doit pas être interprétée comme un document juridique ou un avis juridique. Consultez votre avocat au sujet de votre situation spécifique avant d'utiliser la Constitution à n'importe quelle capacité juridique ou pour tout besoin juridique. Ce document est fourni "en l'état", sans garantie ni condition d'aucune sorte. HolacracyOne ne garantit pas la qualité, l'exactitude, l'actualité, l'intégralité, la valeur marchande ou l'aptitude à l'utilisation ou à l'utilisation de ce document. Dans la mesure maximale prévue par la loi, HolacracyOne et ses agents et membres ne seront pas responsables des dommages que ce soit résultant de l'utilisation de ce document.
