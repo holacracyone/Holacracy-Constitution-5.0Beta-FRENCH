@@ -1,512 +1,335 @@
-# **Holacracy Constitution**
+# **Constitution Holacratie 5.0**
+
+##Préambule
+
+Les ***«Ratificateurs»*** adoptent la présente ***«Constitution»*** en tant que structure d'autorité officielle de ***«l'Organisation»*** spécifiée. Ce faisant, les Ratificateurs cèdent leur pouvoir de gouverner et de diriger l'Organisation aux règles et processus décrits dans cette Constitution, à l'exception des pouvoirs que les Ratificateurs n'ont pas le pouvoir de déléguer. Les Ratificateurs ou leurs successeurs peuvent amender cette Constitution ou l'abroger en utilisant l’autorité sur laquelle ils se sont fondés pour l'adopter, à condition que les amendements soient apportés par écrit.
+Les politiques et systèmes existants que l'Organisation avait en vigueur avant l'adoption de la présente Constitution restent pleinement en vigueur après l'adoption, mais ils ne peuvent être étendus ou modifiés que par les autorités et processus définis ici. Ces politiques et systèmes hérités perdent tout poids et autorité dès que les processus de cette Constitution créent quelque chose qui les remplace ou les contredit.
+L'Organisation peut désigner d'autres ***«Partenaires»*** en plus des Ratificateurs pour l'aider dans sa gouvernance et ses opérations, à condition que ces Partenaires aient également accepté de se conformer à toutes les dispositions pertinentes de la présente Constitution. Dans le cadre de cette contrainte, l'Organisation peut définir comment elle accorde ou retire le statut de Partenaire, sauf indication contraire des Ratificateurs, et les Ratificateurs peuvent spécifier quels sont les Partenaires initiaux de l'Organisation.
+Chaque Partenaire peut invoquer les pouvoirs accordés par la présente Constitution dans toute la même mesure où les Ratificateurs pouvaient exercer ces pouvoirs avant de l'adopter. Toutes les responsabilités et contraintes pesant sur un Partenaire découlent de la présente Constitution et des résultats de ses processus, ainsi que de toutes les obligations légales du Partenaire envers l'Organisation lorsqu’il agit en son nom. Aucune attente ou contrainte implicite n'a de pouvoir sur un Partenaire, ni aucun ordre émis en dehors de l'autorité accordée par la présente Constitution.
+
+##Article 1: Structure Organisationnelle
+
+###1.1 Définition d’un Rôle
+Un ***«Rôle»*** est une construction organisationnelle qu’une personne peut assumer et énergiser au nom de l'Organisation. La personne qui assume un Rôle est un ***«Leader de Rôle»*** pour ce Rôle.
+Une définition de Rôle se compose d'un nom descriptif et d'un ou plusieurs des éléments suivants :
+Une ***«Raison d'Être»***, qui désigne une capacité, un potentiel ou un objectif que le Rôle poursuivra ou exprimera.
+Un ou plusieurs ***«Domaines»***, qui sont des actifs, des processus ou d'autres choses que le Rôle peut contrôler et réglementer de manière exclusive en tant que sa propriété, à ses propres fins.
+Une ou plusieurs ***«Redevabilités»***, qui sont des activités continues que le Rôle gèrera et mettra en œuvre au service d'autres Rôles ou pour exprimer sa Raison d'Être.
+Un Rôle peut également détenir des ***«Politiques»***, qui sont des octrois, des restrictions d'autorité, ou des règles spéciales qui s'appliquent au sein de ce Rôle.
+
+###1.2 Responsabilités des Leaders de Rôles
+En tant que Leader d’un Rôle, vous avez les responsabilités suivantes :
+
+####1.2.1 Traiter les Tensions
+Vous êtes responsable de comparer l'expression réelle de la Raison d'Être et des Redevabilités de votre Rôle à votre vision de leur potentiel idéal, afin d'identifier les écarts entre les deux (chaque écart est une ***«Tension»*** ). Il vous incombe alors d'essayer de résoudre ces Tensions.
+
+####1.2.2 Traiter la Raison d'Être et les Redevabilités
+Vous êtes responsable d'examiner régulièrement la manière de mettre en œuvre la Raison d'Être de votre Rôle et chaque Redevabilité, en définissant :
+Des ***«Prochaines-Actions»*** , qui sont des actions utiles que vous pouvez prendre immédiatement, du moins en l'absence de priorités concurrentes.
+Des ***«Projets»*** , qui sont des résultats spécifiques qu'il serait utile d'atteindre, du moins en l'absence de priorités concurrentes.
+
+####1.2.3 Décomposition des Projets
+Vous êtes responsable de définir régulièrement les Prochaines-Actions pour chacun des Projets actifs de votre Rôle.
+
+####1.2.4 Suivi des Projets, Prochaines-Actions et Tensions
+Vous êtes responsable de la saisie et du suivi de tous les Projets et Prochaines-Actions pour votre Rôle dans des listes écrites. Vous devez également suivre les Tensions que vous avez l'intention de résoudre, au moins jusqu'à ce que vous les transformiez en Projets ou en Prochaines-Actions. Vous êtes également responsable de la révision et de la mise à jour régulière de ces listes, afin de les conserver en tant que source fiable du travail potentiel du Rôle.
+
+####1.2.5 Exécution des Prochaines-Actions
+Chaque fois que vous avez du temps pour agir dans un Rôle, vous êtes responsable de considérer les Prochaines-Actions que vous pourriez entreprendre et d'exécuter celles qui ajouteraient le plus de valeur à l'Organisation.
+
+###1.3 Les Cercles
+Un ***«Cercle»*** est un conteneur permettant d’organiser les Rôles et les Politiques autour d'une Raison d'Être commune. Les Rôles et les Politiques au sein d'un Cercle constituent sa ***«Gouvernance»*** active.
+
+####1.3.1 Décomposition des Rôles
+L'intérieur de chaque Rôle est un Cercle. Ce Cercle peut contenir ses propres Rôles et Politiques pour décomposer et organiser son travail. Ceci ne s'applique pas aux Rôles définis dans cette Constitution, qui ne peuvent pas être décomposés davantage.
+Le Cercle intérieur d'un Rôle est considéré comme un ***«Sous-Cercle»*** du Cercle plus large qui détient le Rôle, tandis que ce Cercle plus large est son ***«Super-Cercle»*** .
+
+####1.3.2 Délégation de Domaines
+Lorsqu'un Cercle accorde un Domaine à l'un de ses Rôles, tout Leader de ce Rôle peut contrôler ce Domaine au nom du Cercle. Un Cercle ne peut accorder à ses Rôles que des Domaines qui relèvent de ses propres Domaines, ou qui ne sont pertinents que dans le cadre de ses propres processus internes.
+Une fois qu'un Rôle contrôle un Domaine, il peut créer des Politiques régissant ce Domaine au sein de sa propre Gouvernance. Toutefois, le Cercle qui a délégué le Domaine conserve le droit de définir ses propres Politiques régissant ce Domaine également. Ces Politiques prévalent sur celles définies par le Rôle en cas de conflit.
+L'octroi d'un Domaine à un Rôle ne délègue pas les droits dont dispose le Cercle pour contrôler les dépenses d'argent ou d'actifs, sauf si cela est explicitement spécifié.
+
+####1.3.3 Cercle d’Ancrage
+Le Cercle le plus large qui détient la Raison d'Être de toute l'Organisation est son ***«Cercle d'Ancrage»***. Le Cercle d'Ancrage détient toutes les autorités et tous les Domaines contrôlés par l'Organisation elle-même, et n'a pas de Super-Cercle. Le Cercle d'Ancrage peut modifier sa propre Raison d'Être ou clarifier ses propres redevabilités via une Politique.
+Les Ratificateurs peuvent définir une structure initiale et d’autres éléments de Gouvernance au sein du Cercle d'Ancrage lors de l'adoption de cette Constitution.
+
+####1.3.4 Liaison dans des Cercles
+Un Rôle peut être lié à un autre Cercle si une Politique de cet autre Cercle ou d'un Super-Cercle de celui-ci l’y invite.
+Une fois lié à un autre Cercle, un Rôle est considéré comme faisant partie de la Gouvernance de cet autre Cercle. Ce Cercle peut ajouter des éléments au Rôle et modifier ultérieurement ce qu'il ajoute. Cependant, il ne peut pas supprimer le Rôle ni modifier ce qui a été ajouté par un autre Cercle, et un autre Cercle ne peut pas modifier ou supprimer tout ce qu'il ajoute. L'autorité d'ajouter ou de modifier les affectations dans le Rôle reste détenue par son Cercle d’origine. Le Cercle auquel un Rôle est lié n'est pas considéré comme son Super-Cercle et le Cercle intérieur du Rôle n'est pas considéré comme son Sous-Cercle.
+Un Cercle peut délier un Rôle en supprimant la Politique qui l'a invité à se lier, ou par un autre mécanisme défini dans cette Politique. Un Rôle peut également choisir de se retirer d'un Cercle auquel il est lié, à moins qu'une Politique au sein du Super-Cercle du Rôle ou agissant sur celui-ci ne le définisse autrement. Une fois délié d'un Cercle, toute Gouvernance ajoutée au Rôle par ce Cercle est automatiquement supprimée.
+
+####1.3.5 Rôles de Facilitateur et de Secrétaire
+Tout Cercle peut désigner une personne comme son ***«Facilitateur»***. Le Facilitateur sélectionné assume un ***«Rôle de Facilitateur»*** dans le Cercle, avec pour Raison d'Être "une Gouvernance du Cercle et des pratiques opérationnelles conformes à la Constitution".
+Tout Cercle peut désigner une personne comme son ***«Secrétaire»***. Le Secrétaire sélectionné assume un ***«Rôle de Secrétaire»*** dans le Cercle, avec pour Raison d'Être "stabiliser les enregistrements requis par cette Constitution et les réunions du Cercle".
+Un Cercle peut ajouter des Redevabilités ou des Domaines à son propre Rôle de Facilitateur ou de Secrétaire, ainsi que modifier ou supprimer ces ajouts. Aucun Cercle ne peut modifier ou supprimer la Raison d'Être de l'un ou l'autre de ces Rôles, ni les Redevabilités ou les Domaines qui leur sont attribués par cette Constitution.
+
+###1.4 Leaders de Cercles
+Être Leader de Rôle signifie également être ***«Leader de Cercle»*** au sein du Cercle intérieur de ce Rôle, et donc assumer le ***«Rôle Leader de Cercle»*** au sein de celui-ci. Le Rôle de Leader de Cercle détient la Raison d'Être de ce Rôle plus large, ainsi que toutes les Redevabilités liées à ce Rôle dans la mesure où elles ne sont pas couvertes par d’autres Rôles ou processus au sein du Cercle.
+Le Cercle d’Ancrage n'a pas de Leader de Cercle, sauf indication contraire dans une Politique du Cercle.
+
+####1.4.1 L’affectation des rôles
+Un Leader du Cercle contrôle l’affectation des Rôles du Cercle et peut affecter tout Rôle au sein du Cercle à toute personne désireuse de l'occuper, y compris à plusieurs personnes en même temps. Toute personne ainsi affectée pourra par la suite démissionner de son Rôle, sauf accord contraire. Un Leader du Cercle peut également révoquer à tout moment l’affectation d'un Rôle au sein du Cercle.
+Un Leader du Cercle peut également cibler l’affectation d’un rôle uniquement sur un contexte spécifique. Pour ce faire, l'ensemble de la définition du Rôle doit rester pertinent dans ce contexte. Lorsqu'un focus est utilisé, chaque focus d'affectation est considéré comme un Rôle distinct. La Raison d'Être du Rôle, les Domaines, et les Redevabilités s'appliquent tous, mais uniquement dans le focus de l’affectation.
+Seul un Leader du Cercle peut affecter ou retirer une affectation d’un Rôle au sein du Cercle, à moins que le Cercle n'ait délégué le contrôle des affectations de Rôles à un autre Rôle ou processus. Une politique peut limiter davantage les affectations ou les retrait des Rôles.
+
+####1.4.2 Assumer les Rôles non pourvus
+Lorsqu'un Rôle dans un Cercle n'est pas pourvu, chaque Leader de Cercle est automatiquement considéré comme un Leader du Rôle non pourvu.
+Lorsqu'un Rôle n'est attribué qu'à des personnes qui ne sont pas Partenaires de l'Organisation, chaque Leader du Cercle est automatiquement considéré comme Leader de ce Rôle. Toutefois, cette affectation par défaut ne s'applique que dans la mesure où les non-Partenaires ne s'acquittent pas activement des responsabilités et devoirs pertinents comme un Partenaire les assumerait.
+
+####1.4.3 Définir les Priorités et Stratégies
+Un Leader de Cercle peut juger de la valeur relative des efforts potentiels du Cercle pour résoudre les conflits de priorité entre les Rôles. Un Leader de Cercle peut également définir une ***«Stratégie»*** pour le Cercle, ou plusieurs Stratégies, qui sont des heuristiques qui guident la hiérarchisation des priorités dans le Cercle.
+
+####1.4.4 Acheminement des références externes
+Chaque fois que la Gouvernance en dehors du Cercle fait référence au Cercle lui-même ou à l’un de ses Rôles, un Leader du Cercle peut mettre à jour cette référence pour qu’elle renvoie à un autre Rôle dans le Cercle. Cette clarification n'est pas considérée comme une modification de la Gouvernance de ce Cercle.
+
+####1.4.5 Amender le Rôle de Leader de Cercle
+Un Cercle ne peut pas modifier la Raison d'Être de son Rôle Leader de Cercle, ni supprimer le Rôle.
+Un Cercle peut ajouter des Redevabilités ou des Domaines au Rôle Leader de Cercle, et peut ensuite retirer ces ajouts. Cependant ces ajouts s'appliquent automatiquement au Rôle Leader de Cercle de chaque Sous-Cercle, de manière récursive. Un Cercle ne peut pas ajouter des Redevabilités ou des Domaines uniquement à son propre Rôle de Leader de Cercle, ni à aucun autre qui ne serait pertinent que dans ce Cercle.
+Un Cercle peut supprimer toute Redevabilité, Domaine, autorité ou fonction de son propre Rôle Leader de Cercle. Il peut le faire soit en les plaçant dans un autre Rôle dans le Cercle, soit en définissant un autre moyen de les mettre en œuvre. Ce faisant, il supprime automatiquement l’autorité ou l'élément concerné du Rôle de Leader du Cercle, tant que la délégation reste en place.
+
+##Article 2 : Règles de coopération
+
+###2.1 Devoir de transparence
+En tant que Partenaire, vous avez le devoir d'assurer la transparence envers les Leaders de Rôles de l’Organisation, à leur demande, comme suit :
+Projets et Prochaines-Actions : vous devez partager tous les Projets et Prochaines-Actions que vous suivez pour l’Organisation.
+Priorités Relatives : vous devez partager votre jugement sur la priorité relative de vos Projets ou Prochaines-Actions de votre Rôle par rapport à tout autre élément en concurrence pour votre attention.
+Projections : vous devez fournir une projection de la date à laquelle vous prévoyez de terminer l'un de vos Projets ou .Prochaines-Actions Une estimation approximative tenant compte de votre contexte et de vos priorités actuelles est suffisante. Aucune analyse ou planification détaillée n'est requise, et cette projection n'est en aucun cas un engagement. Sauf indication contraire de la Gouvernance, vous n'avez aucune obligation de faire le suivi de la projection ni de faire le suivi auprès du destinataire en cas de changement.
+Éléments de la Checklist : vous devez vérifier l'achèvement de toutes les actions récurrentes que vous effectuez pour vos Rôles ou en tant que Partenaire de l'Organisation. Si demandé, vous devez continuer à partager ces vérifications régulièrement, jusqu'à ce que vous pensiez qu'elles ne sont plus utiles.
+Indicateurs : vous devez partager tous les indicateurs que vous collectez dans vos Rôles ou en tant que Partenaire de l'Organisation. Si demandé, vous devez continuer à partager ces indicateurs régulièrement, jusqu'à ce que vous déterminiez qu'ils ne sont plus utiles.
+Mise à jour des progrès : vous devez partager un résumé des progrès que vous avez réalisés dans vos Rôles ou dans l'un de vos Projets depuis la dernière mise à jour que vous avez partagée. Si demandé, vous devez continuer à partager ces mises à jour régulièrement, jusqu'à ce que vous déterminiez qu'elles ne sont plus utiles.
+Autres informations : vous devez partager toute autre information facilement accessible pour vous et qui ne causerait pas de tort à être partagée.
+
+###2.2 Devoir de Traitement
+En tant que Partenaire, vous avez le devoir de traiter rapidement les messages et demandes des Leaders de Rôles de l’organisation, comme suit :
+Demandes de Clarification : ils peuvent vous demander de clarifier les prochaines étapes pour n’importe lequel de vos Projet ou pour toute Redevabilité de vos Rôles. Vous devez alors déterminer et communiquer une Prochaine-Action pour le faire avancer, s’il y en a que vous pouvez prendre. Si ce n’est pas le cas, vous devez à la place dire ce que vous attendez avant de pouvoir prendre une Prochaine-Action.
+Demandes de Projets et de Prochaines-Actions : ils peuvent vous demander de prendre une Prochaine-Action ou un Projet spécifique. Vous devez l'accepter et le suivre si vous pensez qu'il serait logique de travailler en ce sens dans l’un de vos Rôles ou en tant que Partenaire de l’Organisation, au moins en l'absence de priorités concurrentes. Si vous ne l'acceptez pas, vous devez soit expliquer votre raisonnement, soit suggérer autre chose qui, à votre avis, répondra à l'objectif du demandeur.
+Requêtes pour impacter un Domaine : ils peuvent demander d'avoir un impact sur un Domaine contrôlé par l’un de vos Rôles. Vous devez autoriser l'impact si vous ne voyez aucune raison que cela réduise votre capacité à exprimer la Raison d'Être ou les Redevabilités de votre Rôle. Si vous voyez une telle raison, vous devez l’expliquer au demandeur.
+
+###2.3 Devoir de priorisation
+En tant que Partenaire, vous avez le devoir de prioriser votre attention en alignant ce qui suit :
+Traitement : vous devez d’une manière générale prioriser le traitement des messages entrants vers vos Rôles, provenant d'autres Leaders de Rôles, sur l'exécution de vos propres Prochaines-Actions. Cependant, vous pouvez retarder le traitement des messages jusqu'à ce que vous puissiez les traiter par lots à un moment opportun, tant que votre traitement est toujours rapide. Le traitement comprend l'exécution de toute obligation dans cet article, puis le partage de la façon dont vous avez traité le message sur demande. Traiter ne signifie pas exécuter toutes les Prochaines-Actions ou Projets que vous capturez.
+Réunions : vous devez prioriser la participation à toute réunion définie dans la présente Constitution plus que l'exécution de vos propres Prochaines-Actions, mais seulement si un autre Partenaire demande explicitement cette priorisation pour une réunion spécifique. Vous pouvez toujours refuser la demande si vous avez déjà des projets planifiés pendant la durée de la réunion.
+Priorités du Cercle : lorsque vous choisissez ce sur quoi travailler dans l’un de vos Rôles, vous devez tenir compte de toutes les Stratégies officielles ou des priorités relatives de ce Rôle, de tout Cercle détenant ce Rôle et de tout Super-Cercle de celui-ci. Vous devez alors considérer ces priorités officielles comme plus importantes pour l'Organisation que vos propres priorités individuelles ou votre propre jugement des priorités de l'Organisation. Les priorités officielles d’un Cercle sont celles définies par un Leader de Cercle, ou par tout autre Rôle ou processus ayant l’autorité de résoudre les conflits de priorité et de définir des Stratégies pour ce Cercle.
+Échéances : si la Gouvernance , une Stratégie ou les priorités officielles d'un Cercle comportent une échéance précisant la date à laquelle quelque chose doit être fait, personne ne doit l'interpréter comme un devoir de respecter cette échéance, quelles qu'en soient les conséquences. Vous devez plutôt l'interpréter comme une priorisation officielle des actions nécessaires pour respecter cette échéance par rapport aux autres actions du Cercle, et agir en conséquence. Un Leader de Cercle ou un autre Rôle ou processus ayant le pouvoir de résoudre les conflits de priorité entre Rôles peut modifier cette priorisation.
+
+###2.4 Accords Relationnels
+En tant que Partenaire, vous pouvez passer des ***«Accords Relationnels»*** avec d’autres Partenaires. Il s’agit d’accords sur la manière dont vous entretiendrez des relations tout en travaillant dans l’Organisation ou sur la manière dont vous vous acquitterez de vos fonctions générales en tant que Partenaires de l’Organisation. Ils peuvent compléter ou clarifier les devoirs du présent article, mais ils ne peuvent pas entrer en conflit avec eux.
+Les Accords Relationnels doivent rester centrés sur le façonnement des comportements qui sous-tendent généralement le travail ; ils ne peuvent pas définir des attentes de travail à faire dans un Rôle, ni des attentes sur la façon dont un Partenaire établira les priorités entre différents Rôles. De plus, ils ne peuvent spécifier que des actes concrets à réaliser ou des contraintes comportementales à honorer; ils ne peuvent pas inclure de promesses d'atteindre des résultats spécifiques ni inclure des qualités abstraites.
+En tant que Partenaire, vous pouvez demander un Accord Relationnel à un autre Partenaire pour vos propres préférences personnelles ou pour servir un Rôle que vous assumez. Ce Partenaire peut accepter ou rejeter l'Accord Relationnel demandé en fonction de ses propres préférences personnelles. Sauf accord contraire, chaque partie peut quitter ultérieurement l’Accord Relationnel en notifiant l’autre partie.
+En tant que Partenaire, vous avez le devoir d'aligner votre comportement sur tout Accord Relationnel écrit que vous avez conclu. Toute personne facilitant une réunion ou un processus pour l'Organisation peut également appliquer ces Accords Relationnels au cours de cette réunion ou de ce processus, à condition qu'ils n'entrent pas en conflit avec quoi que ce soit défini dans la présente Constitution.
+
+##Article 3 : Réunions Tactiques
+Tout Partenaire peut convoquer une ***«Réunion Tactique»*** pour aider les Partenaires à s'engager mutuellement dans leurs responsabilités et leurs devoirs. En outre, le Secrétaire de chaque Cercle est redevable de la programmation des Réunions Tactiques régulières du Cercle.
+
+###3.1 Participation
+Pour les Réunions Tactiques régulières convoquées par le Secrétaire d'un Cercle, tous les Rôles du Cercle sont invités sauf si une Politique spécifie autre chose. Pour les autres Réunions Tactiques, le Partenaire qui convoque la réunion doit indiquer les Rôles invités à cette réunion. Les Leaders de tous ces Rôles sont alors invités à participer et à représenter ces Rôles, à moins que le demandeur ne restreigne l'invitation pour n'inclure qu'un sous-ensemble de Leaders d'un Rôle.
+
+###3.2 Processus de réunion
+Le Facilitateur d'un Cercle est responsable de la facilitation des réunions Tactiques régulières du Cercle, et son Secrétaire est responsable de la saisie et de la publication des résultats des réunions Tactiques. Dans le cas des Réunions Tactiques convoquées par une personne autre que le Secrétaire du Cercle, le Partenaire qui convoque une Réunion Tactique doit la faciliter et en saisir les résultats, ou désigner un autre volontaire ou un Rôle approprié pour le faire.
+Sauf indication contraire d'une Politique, la personne qui facilite cette réunion doit utiliser le processus suivant :
+Tour d’inclusion : chaque participant partage à son tour son état actuel ou partage un autre commentaire d'ouverture pour la réunion. Les réponses ne sont pas autorisées.
+Revue de la Checklist : chaque participant vérifie l'achèvement de toute action récurrente dont il fait régulièrement rapport pour ses Rôles lors de la réunion.
+Revue des indicateurs : chaque participant partage les indicateurs dont il fait régulièrement rapport pour ses Rôles lors de la réunion.
+Mise à jour des progrès : chaque participant met en évidence les progrès réalisés dans tout Projet ou initiative dont il rend régulièrement compte pour ses Rôles lors de la réunion. Les participants ne peuvent partager que les progrès accomplis depuis le rapport précédent, et non l’avancement général d’un travail.
+Établissement de l’ordre du jour : les participants établissent un ordre du jour des points à traiter au cours de la réunion. Chaque participant peut ajouter autant de points à l'ordre du jour qu'il le souhaite en fournissant un bref libellé pour chacun, sans explication ni discussion autorisée. Les participants peuvent ajouter d'autres points à l'ordre du jour après cette étape, entre le traitement de points existants de l'ordre du jour.
+Triage des Points : pour traiter chaque point de l'ordre du jour, le porteur du point de l'ordre du jour peut faire des demandes à un autre participant, soit à ce participant dans sa capacité générale en tant que Partenaire, soit à un Rôle que ce participant représente dans la réunion. Toutefois, les demandes à un Rôle ne peuvent être effectuées qu'au service d'un Rôle que le demandeur représente lors de la réunion. La personne qui facilite la réunion gère le temps alloué à chaque point de l'ordre du jour afin de laisser de l'espace pour l'ensemble de l'ordre du jour et peut interrompre le traitement de tout point après sa part de temps de réunion.
+Tour de clôture : chaque participant partage à son tour une réflexion de clôture sur la réunion. Les réponses ne sont pas autorisées.
+Une Politique d'un Cercle peut spécifier un autre processus ou modifier ce processus par défaut pour les réunions Tactiques convoquées par l'un des Rôles du Cercle.
+
+##Article 4 : Autorité distribuée
+En tant que Leader de Rôle, vous avez l’autorité de prendre toute action ou de prendre toute décision pour mettre en œuvre la Raison d’Être ou les Redevabilités de votre Rôle, tant que vous n’enfreignez pas une règle définie dans la présente Constitution. Lorsque vous priorisez et choisissez parmi vos actions potentielles, vous pouvez utiliser votre propre jugement raisonnable sur la valeur relative de chacune d’elles pour l'Organisation.
+
+###4.1 Contraintes sur l’autorité
+En tant que Leader de Rôle, vous devez respecter les contraintes suivantes sur votre autorité.
+
+####4.1.1 N’enfreignez pas les Politiques
+En agissant dans un Rôle, vous ne pouvez pas enfreindre les Politiques du Rôle lui-même ou de tout Cercle contenant le Rôle.
+
+####4.1.2 Obtenir l'autorisation avant d’impacter les Domaines
+Au service de votre Rôle, vous avez l’autorité pour impacter et contrôler les Domaines de votre Rôle.
+Vous pouvez également avoir un impact sur tout Domaine détenu par un Cercle contenant votre Rôle et non délégué, ou tout Domaine qu'un tel Cercle peut lui-même impacter. Mais si vous pensez que votre impact sera difficile ou coûteux à annuler, vous devez obtenir une autorisation.
+Vous ne pouvez pas exercer de contrôle ou avoir un impact matériel sur un Domaine délégué à un Rôle ou à un Cercle qui ne contient pas votre Rôle, sauf si vous obtenez l'autorisation. Vous ne pouvez pas non plus le faire sur un Domaine appartenant à une autre entité souveraine sans autorisation.
+Lorsque vous avez besoin d'une autorisation pour impacter un Domaine, vous pouvez l'obtenir auprès de quiconque contrôle ce Domaine. Vous pouvez également obtenir l'autorisation en annonçant votre intention de prendre une action spécifique et en invitant toute personne possédant un Domaine pertinent à s'y opposer. Vous devez ensuite attendre un délai raisonnable pour permettre les réponses. Si personne ne s'y oppose dans ce délai, vous êtes alors autorisé à impacter les Domaines appartenant à tout Rôle dans l'Organisation atteint par votre annonce. Vous pouvez supposer qu'une annonce écrite a atteint toute personne qui lit généralement les messages sur le canal que vous avez utilisé. Toute autorisation ainsi accordée ne s'applique qu’à l'exécution de l'action spécifique que vous avez annoncée. Une Politique peut modifier ou limiter ce processus.
+
+####4.1.3 Obtenir l'autorisation avant de dépenser de l’argent
+Vous ne pouvez pas dépenser d'argent ou d'autres actifs à moins d'avoir d'abord été autorisé à le faire. Cette autorisation doit provenir d'un Rôle qui a déjà le contrôle de ces ressources à des fins de dépenses. Si vous disposez d'un bien significatif de l’Organisation ou si vous limitez significativement l'un de ses droits, cela est considéré comme une dépense.
+Pour être autorisé à dépenser, vous devez annoncer votre intention de dépenser par écrit au Rôle auquel vous demandez l'autorisation. Vous devez partager cette annonce à un endroit où tous les Partenaires agissant en tant que Leaders de ce Rôle ou à l’intérieur de ce Rôle la verront généralement. Votre déclaration doit inclure la raison de la dépense et le Rôle pour lequel vous dépenserez. Vous devez ensuite attendre un délai raisonnable pour permettre son examen et les réponses.
+Tout destinataire de votre annonce peut faire remonter la dépense pour une considération supplémentaire et vous ne pouvez pas procéder à la dépense en cas de remontée. Cependant, un Leader du Rôle auquel vous demandez l'autorisation peut stopper une remontée, tout comme la personne qui l'a déclenchée. Une fois qu'un délai raisonnable s'est écoulé et qu'aucune remontée n'a eu lieu, votre Rôle prend le contrôle de ces ressources. Vous pouvez les dépenser dans le but déclaré ou autoriser d'autres personnes à le faire. Le Rôle dont vous avez obtenu cette autorisation perd ce contrôle, mais un Leader de ce Rôle peut révoquer l'autorisation à tout moment.
+Une Politique peut modifier ce processus de quelque manière que ce soit, ou autoriser directement un Rôle à contrôler les dépenses des ressources du Cercle.
+
+###4.2 Autorité d’interprétation
+En tant que Partenaire, vous pouvez utiliser votre jugement raisonnable pour interpréter cette Constitution et tout ce qui relève de son autorité. Vous pouvez en outre interpréter comment celle-ci s'appliquent à toute situation spécifique à laquelle vous faites face et agir en fonction de vos interprétations. Cependant, vous devez interpréter toute Gouvernance dans le contexte de la Raison d’Être et des Redevabilité du Cercle qui la contient, et dans le cadre de toute décision d'interprétation officielle de ce Cercle ou d’un Super-Cercle de celui-ci. Vous ne pouvez pas utiliser d'interprétations qui entrent en conflit avec ce contexte ni avec ces décisions.
+
+####4.2.1 Conflits d’interprétation
+En tant que Partenaire, votre interprétation de la présente Constitution et de la Gouvernance de l'Organisation peut parfois entrer en conflit avec celle d'un autre Partenaire. Lorsque cela se produit, chaque partie peut demander au Secrétaire de tout Cercle concerné de décider de l'interprétation à utiliser et le Secrétaire est redevable de l'interprétation de la Constitution et de tout ce qui relève de son autorité sur demande. Après la réponse d'un Secrétaire, chacun doit s'aligner sur la décision de ce Secrétaire jusqu'à ce que le texte ou le contexte concerné change.
+Après avoir statué sur une interprétation, un Secrétaire peut publier la décision et la logique qui la sous-tend. Si elle est publiée, les Secrétaires de ce Cercle et tous les Cercles qu’il contient doivent tenter de s'aligner sur cette logique dans toute décision future. Cependant, un Secrétaire peut toujours la contredire lorsqu’une nouvelle circonstance impérieuse rend la logique obsolète.
+Vous pouvez faire appel à l'interprétation d'un Secrétaire de tout Super-Cercle. Un Secrétaire de Super-Cercle peut remplacer l'interprétation de tout Secrétaire d’un Sous-Cercle.
+
+####4.2.2 Radier la Gouvernance invalide
+Tout Partenaire peut demander au Secrétaire d'un Cercle de se prononcer sur la validité de toute Gouvernance au sein de ce Cercle ou de tout Sous-Cercle de celui-ci. Si le Secrétaire conclut qu'elle viole les règles de cette Constitution, il doit la radier des registres du Cercle. Après cela, le Secrétaire doit communiquer rapidement ce qu'il a supprimé et pourquoi à tous les Partenaires affectés à un Rôle du Cercle.
+
+###4.3 Initiative individuelle
+En tant que Partenaire, dans certains cas, vous êtes autorisé à prendre une ***«Initiative individuelle»*** en agissant au-delà de l'autorité de vos Rôles ou en enfreignant les règles de cette Constitution.
+
+####4.3.1 Situations autorisées
+Vous ne pouvez prendre une initiative individuelle que si toutes les conditions suivantes sont réunies :
+Vous agissez de bonne foi pour servir la Raison d'Être ou exprimer les Redevabilités d'un Rôle au sein de l'Organisation.
+Vous pensez que votre action résoudrait ou empêcherait plus de Tensions pour l'Organisation qu'elle n'en créerait probablement.
+Votre action n'engage pas l'Organisation à dépenser au-delà de ce que vous êtes déjà autorisé à dépenser.
+Si votre action enfreint des Politiques ou des Domaines, vous pensez qu'une grande valeur serait perdue en la retardant pour obtenir une autorisation ou modifier la Gouvernance.
+
+####4.3.2 Communication et Restauration
+Lorsque vous prenez une initiative individuelle, vous devez expliquer votre action à tous les Leaders de Rôle qui selon vous pourraient être impactés de manière significative. À la demande d'un tel Leader de Rôle, vous devez prendre d'autres actions pour aider à résoudre les Tensions créées par votre initiative individuelle. A la demande d'un tel Leader de Rôle, vous devez également vous abstenir de prendre une initiative individuelle similaire.
+Vous devez prioriser la communication et la restauration requises par cette section sur votre travail régulier. Cependant, un Leader de Cercle d'un Cercle qui contient tous les Rôles affectés par votre action peut modifier cette priorité par défaut.
+Article 5 : Processus de Gouvernance
+Pour changer la Gouvernance d'un Cercle, il faut utiliser le ***«Processus de Gouvernance»*** défini ici.
+
+###5.1 Participants à la Gouvernance
+Chaque Cercle a un groupe de ***«Membres du Cercle»*** qui peuvent représenter ses Rôles dans son Processus de Gouvernance.
+Les Membres du Cercle d'un Cercle sont tous les Partenaires affectés à son Rôle de Leader de Cercle, ainsi que chaque Partenaire servant comme Leader de Rôle pour un Rôle dans le Cercle. Si un Rôle a plusieurs Leaders de Rôle, un Cercle peut adopter une Politique pour limiter le nombre d'entre eux qui représentent ce Rôle en tant que Membres du Cercle dans son Processus de Gouvernance.
+
+####5.1.1 Représentants de Cercles
+Tout Membre d'un Cercle peut demander à tout moment une élection pour sélectionner ou remplacer quelqu'un en tant que ***«Représentant du Cercle»*** pour aider à représenter ce Cercle au sein d'un Cercle plus large qui le contient. Le Représentant de Cercle sélectionné assume le ***«Rôle de Représentant de Cercle»*** dans le Cercle, dont la Raison d'Être est "les Tensions pertinentes à traiter dans un Cercle plus larges sont acheminées et résolues”, et qui comporte les Redevabilités suivantes :
+Chercher à comprendre les Tensions transmises par les Leaders de Rôles au sein du Cercle.
+Discerner les Tensions appropriées pour être traitées dans un Cercle plus large qui détient le Cercle.
+Traiter les Tensions au sein d'un Cercle plus large afin de lever les contraintes qui pèsent sur le Cercle.
+Le Cercle doit utiliser le Processus d'Élection Intégrative défini dans cette Constitution pour sélectionner un Représentant du Cercle, sauf si une Politique définit un autre processus. Seuls les Membres d'un Cercle sont éligibles pour comme Représentant de Cercle. Toute personne qui est Leader pour le Cercle ne peut pas également exercer le Rôle de Représentant de Cercle. Une seule personne peut être Représentante de Cercle à la fois, sauf si une Politique d'un Cercle contenant le Cercle le permet.
+Le Représentant du Cercle sélectionné devient un Membre du Cercle de tout Cercle contenant ce Cercle, avec l’autorité de représenter son Cercle comme un Leader de Cercle. Un Cercle contenant peut limiter ou empêcher ces Représentants de Cercle de devenir ses Membres de Cercle via une Politique, mais uniquement si ses Rôles ont une autre façon de bénéficier d'une représentation comparable au sein de ce Cercle.
+Un Cercle peut ajouter des Redevabilités ou des Domaines à son propre Rôle de Représentant de Cercle, ainsi que modifier ou supprimer ces ajouts. Aucun Cercle ne peut modifier ou supprimer la Raison d'Être de ce Rôle, ni les Redevabilités qui lui sont attribuées par cette Constitution.
+
+####5.1.2 Facilitateur et Secrétaire
+Le Facilitateur du Cercle est redevable de faciliter le Processus de Gouvernance. Le Secrétaire du Cercle est redevable de la saisie et de la publication des résultats du Processus de Gouvernance et détient un Domaine sur les registres de gouvernance du Cercle.
+Tout Membre d'un Cercle peut demander une élection à tout moment pour affecter ou remplacer quelqu'un comme Facilitateur ou Secrétaire du Cercle. Le Cercle doit utiliser le Processus d'Élection Intégrative défini ici pour sélectionner un Facilitateur et un Secrétaire. Aucun Rôle ni Politique ne peut affecter ces Rôles ou supprimer une affectation par tout autre moyen, ni modifier ce processus requis. Normalement, les seuls candidats éligibles pour ces élections sont les Membres du Cercle. Cependant, une Politique du Cercle ou de tout Super-Cercle peut ajouter ou limiter les candidats éligibles.
+
+###5.2 Portée de la Gouvernance
+Dans le cadre du Processus de Gouvernance d'un Cercle, ses Membres peuvent :
+- **(a)** créer, modifier ou supprimer les Rôles du Cercle ; et
+- **(b)** créer, modifier ou supprimer les Politiques du Cercle ; et
+- **(c)** déplacer les Rôles ou Politiques du Cercle dans un Sous-Cercle ou un Sous-Cercles de celui-ci, mais uniquement s'ils servent la Raison d'Être ou les Redevabilités de ce Sous-Cercle ; et
+- **(d)** déplacer des Rôles ou des Politiques d'un Sous-Cercle ou de tout Sous-Cercle de celui-ci vers le Cercle lui-même, mais seulement s'ils ne sont plus pertinents pour la réalisation de la Raison d'Être ou des Redevabilités de ce Sous-Cercle ; et
+tenir des élections pour tout Rôle élu au sein du Cercle.
+Aucune autre décision n'est un résultat valide du Processus de Gouvernance d'un Cercle.
+
+####5.2.1 Portée d’une Politique
+Une Politique ne peut être qu'un ou plusieurs des éléments suivants :
+- **(a)** une contrainte sur l'autorité d'un ou plusieurs des Rôles contenus dans le Cercle ; ou
+- **(b)** l'octroi d'une autorité que le Cercle ou le Leader de Cercle détient à un ou plusieurs Rôles ; ou
+- **(c)** l'octroi d'une autorité qui autorise des personnes ou des Rôles qui n’y sont pas autorisés autrement, à contrôler ou à impacter l'un des Domaines du Cercle, ou une contrainte sur la façon dont ils peuvent le faire lorsqu'ils y sont autorisés par ailleurs ; ou
+- **(d)** une règle qui modifie une règle ou un processus par défaut dans la présente Constitution, si ce changement est explicitement autorisé.
+
+Une Politique qui accorde ou restreint l'autorité s'applique également dans tous les Sous-Cercles, de manière récursive, sauf indication contraire. Une Politique qui modifie une règle ou un processus par défaut de cette Constitution s'applique uniquement au sein du Cercle qui détient la Politique, ou, si cela est explicitement indiqué, dans tous les Sous-Cercles également, de manière récursive. Dans ce dernier cas, un Sous-Cercle peut toujours remplacer cette Politique par l'une des siennes, sauf interdiction explicite dans la Politique originale.
+
+###5.3 Modifier la Gouvernance
+Tout Membre d'un Cercle peut initier son Processus de Gouvernance en proposant une modification de sa Gouvernance. Pour ce faire, le ***«Proposeur»*** doit d'abord partager une ***«Proposition»*** par écrit avec tous les autres Membres du Cercle, en utilisant tout canal de communication autorisé par le Secrétaire. Ces autres Membres du Cercle peuvent ensuite poser des questions de clarification, partager leurs réactions et exprimer leurs préoccupations concernant l'adoption de la Proposition. Chaque préoccupation est une ***«Objection»*** si elle répond aux critères énoncés dans la présente, et la personne qui l'a soulevée est ***«l'Objecteur»*** .
+Une fois que chaque Membre du Cercle confirme qu'il n'a pas d'Objection à une Proposition, celle-ci est adoptée et modifie la Gouvernance du Cercle. Si des Objections sont soulevées, le Proposeur et chaque Objecteur doivent trouver un moyen de répondre aux Objections avant que le Cercle n’adopte la Proposition. Après un tel effort, tous les Membres du Cercle doivent avoir une nouvelle occasion de soulever des Objections. Un Cercle peut adopter une Politique pour définir un délai pour soulever des Objections, après lequel toute personne qui n'a pas répondu est supposée n'avoir aucune Objection. À tout moment pendant que le Cercle traite une proposition de manière asynchrone, n'importe quel Membre du Cercle peut demander au Proposeur de la soumettre à une réunion pour qu'elle soit traitée en temps réel. Sauf disposition contraire d’une politique, le traitement asynchrone s'arrête alors et la proposition est considérée comme retirée jusqu'à ce qu'elle soit re-proposée lors d'une réunion.
+Lorsqu'il fait des Propositions ou soulève des Objections, un Membre du Cercle ne peut représenter que les Rôles du Cercle qu'il assume en tant que Leader de Rôle ou qu'il représente en tant que Représentant de Cercle. Un Membre du Cercle peut également représenter un Rôle qu'il est autorisé à représenter temporairement par l'un de ses Leaders de Rôle, jusqu'à ce que cette autorisation expire ou soit retirée.
+
+####5.3.1 Exigences pour une Proposition
+Pour qu'une Proposition soit valide, le Proposeur doit pouvoir :
+- décrire une Tension que la Proposition réglerait pour l'un des Rôles du Proposeur ; et
+- partager un exemple d'une situation réelle passée ou présente illustrant cette Tension ; et
+- fournir une explication raisonnable de la manière dont la Proposition aurait réduit la Tension dans cet exemple.
+
+Si à tout moment il apparaît clairement pour le Facilitateur qu'une Proposition ne répond pas à ces critères, le Facilitateur doit rejeter la Proposition.
+
+####5.3.2 Exigences pour une Objection
+Une préoccupation concernant l'adoption d'une Proposition ne compte comme une Objection que si l'Objecteur peut fournir un argument raisonnable pour expliquer pourquoi elle répond à tous les critères suivants :
+- La Proposition réduirait la capacité du Cercle de réaliser sa Raison d'Être ou ses Redevabilités.
+- La Proposition limiterait la capacité de l'Objecteur à mettre en œuvre la Raison d'Être ou une Redevabilité d'un Rôle que l'Objecteur représente dans le Cercle, même si l'Objecteur ne porte aucun autre Rôle dans l'Organisation.
+- La préoccupation n’existe pas déjà, même en l’absence de la Proposition. Ainsi, une nouvelle Tension serait créée spécifiquement en adoptant la Proposition.
+- La Proposition causerait nécessairement l'impact, ou, si elle pouvait causer l'impact, le Cercle n'aurait pas une opportunité adéquate de s'adapter avant qu'un préjudice significatif puisse en résulter.
+
+Cependant, quels que soient les critères ci-dessus, une préoccupation compte toujours comme une Objection si l'adoption de la Proposition enfreint une règle de cette Constitution.
+
+####5.3.3 Tester les Objections potentielles
+Le Facilitateur peut vérifier si une préoccupation est considérée comme une Objection en demandant à l'Objecteur si la préoccupation répond aux critères requis et comment. Lors de l'évaluation des réponses, le Facilitateur peut uniquement juger si l'Objecteur a présenté des arguments pour chaque critère en utilisant un raisonnement logique. Le Facilitateur ne peut pas juger sur la base de l'exactitude d'un argument ou de l'importance de le traiter.
+Lorsqu'une Objection est posée parce que l'adoption d'une Proposition violerait cette Constitution, le Facilitateur peut demander au Secrétaire du Cercle d'interpréter si c'est vrai. Si le Secrétaire décide que ce n'est pas le cas, le Facilitateur doit alors rejeter l'Objection.
+
+####5.3.4 Règles d'intégration
+Lors de la tentative de résolution d'une Objection, les règles suivantes s'appliquent :
+Le Facilitateur doit tester une Objection si un Membre du Cercle le demande. Si elle ne répond pas aux critères requis, le Facilitateur doit la rejeter.
+L’Objecteur doit essayer de trouver un amendement à la Proposition qui résoudrait l’Objection et traiterait toujours la Tension du Proposeur. Si le Facilitateur pense que l'Objecteur ne tente pas de bonne foi de le faire, le Facilitateur doit considérer l'Objection comme abandonnée et la laisser tomber.
+Tout Membre du Cercle peut poser au Proposeur des questions de clarification sur la Tension Sous-jacente à la Proposition, ou sur tout exemple qu'il a partagé pour illustrer la Tension. Si le Facilitateur estime que le Proposeur n’y répond pas de bonne foi, le Facilitateur doit considérer la Proposition comme abandonnée.
+L'Objecteur peut suggérer une Proposition modifiée et présenter des arguments raisonnables pour expliquer pourquoi elle devrait résoudre la Tension. Ensuite, à la demande de l’Objecteur, le Proposeur doit présenter un argument raisonnable expliquant pourquoi la Proposition modifiée ne résoudrait pas la Tension dans au moins un des exemples que le Proposeur a utilisé pour illustrer la Tension. Si nécessaire, le Proposeur peut ajouter un autre exemple pour illustrer pourquoi la Proposition modifiée ne résoudrait pas la Tension. Si le Facilitateur estime que le Proposeur ne peut pas ou ne veut pas le faire, le Facilitateur doit considérer la Proposition abandonnée.
+
+####5.3.5 Processus d'Élection Intégrative
+Tout Membre du Cercle peut également initier le Processus de Gouvernance du Cercle en appelant à l'élection d'un Représentant, d'un Facilitateur ou d'un Secrétaire du Cercle. Le Facilitateur en titre doit ensuite mettre en oeuvre le ***«Processus d'Élection Intégrative»*** comme suit :
+- **(a)** Décrire le Rôle : tout d'abord, le Facilitateur identifie le Rôle cible et choisit une durée de mandat pour l'élection. Le Facilitateur peut également présenter d'autres informations pertinentes concernant l'élection. Pendant cette étape et la suivante, personne ne peut commenter les candidats potentiels.
+- **(b)** Voter pour les candidats : chaque Membre du Cercle utilise un bulletin de vote ou un autre forum privé pour désigner le candidat éligible qui, selon lui, est le mieux placé pour le Rôle. Les Membres du Cercle doivent également étiqueter leur bulletin de vote avec leur propre nom, et personne ne peut s'abstenir ni désigner plusieurs personnes.
+- **(c)** Tour de partage des votes : au cours de cette étape, le Facilitateur partage chaque vote à tous les Membres du Cercles. Pour chaque bulletin, le proposant indique pourquoi il croit que son choix serait un bon candidat pour le Rôle. Personne d'autre ne parle. Le proposant ne peut pas faire de commentaire sur d'autres candidats potentiels au-delà de son candidat.
+- **(d)** Tour de changement de vote : une fois que tous les votes sont partagés, tout Membre du Cercle peut changer son vote et expliquer la raison du changement. Aucune réponse autorisée.
+- **(e)** Faire une Proposition : le Facilitateur compte les votes et fait une Proposition pour élire le candidat le plus désigné. En cas d'égalité, le Facilitateur peut effectuer l'une des actions suivantes :
+- si un seul des candidats à égalité s'est désigné lui-même, proposer cette personne ; ou
+- si la personne occupant actuellement le Rôle fait partie des personnes à égalité, proposer cette personne ; ou
+- sélectionner au hasard un des désignés à égalité et proposer cette personne ; ou
+- revenir à l'étape précédente et demander à chaque Membre du Cercle qui a désigné une personne autre qu'un candidat à égalité de changer ce vote pour l'un des candidats à égalité.
+- **(f)** Tour d’Objections : le Facilitateur demande à chaque Membre du Cercle s’il voit des Objections à la Proposition. Si des Objections apparaissent, le Facilitateur peut soit autoriser la discussion pour tenter de les résoudre, soit rejeter la Proposition. Si elle est rejetée, le Facilitateur doit ensuite revenir à l'étape précédente de ce processus, ignorer tous les votes pour le candidat écarté et appliquer les règles de l'étape précédente pour sélectionner un autre candidat à proposer à la place.
+Un Cercle peut adopter une Politique pour définir un délai pour voter pour un candidat ou pour répondre à une Proposition pendant le Processus d'Élection Intégrative. Une fois ce délai atteint, le Facilitateur doit exclure du reste du processus toute personne n'ayant pas répondu.
+
+####5.3.6 Remplaçants des Facilitateurs et Secrétaires
+Un remplaçant peut agir en tant que Facilitateur ou Secrétaire tant que le Rôle n'est pas pourvu. Un remplaçant peut également assumer le Rôle lorsque le Facilitateur ou le Secrétaire en place n'est pas disponible lorsqu’on en a besoin, ou s’il demande un remplaçant pour une raison quelconque.
+
+Chaque fois qu'un remplaçant est nécessaire, le remplaçant est, dans cet ordre de priorité :
+- une personne désignée par la personne à remplacer ; ou
+- pour le Facilitateur, le Secrétaire élu du Cercle, et pour le Secrétaire, le Facilitateur élu du Cercle ;
+- le Leader du Cercle, ou, s'il y a plusieurs Leaders de Cercle, le premier à se déclarer agir comme remplaçant ; ou
+- le premier Membre du Cercle à se déclarer remplaçant.
+
+###5.4 Réunions de Gouvernance
+En plus de traiter les Propositions faites de manière asynchrone en dehors des réunions, chaque Cercle tiendra aussi régulièrement des ***«réunions de Gouvernance»*** pour mettre en œuvre le Processus de Gouvernance du Cercle en temps réel.
+Le Secrétaire du Cercle est responsable de la planification de ses réunions de Gouvernance. En plus des Réunions de Gouvernance du Cercle régulièrement programmées, le Secrétaire doit planifier rapidement des Réunions de Gouvernance spéciales à la demande de tout Membre du Cercle. Le demandeur peut en outre préciser l'intention d'une Réunion de Gouvernance spéciale et toute limite sur ce que la réunion peut modifier. Cela peut inclure de concentrer la réunion sur une Tension spécifique ou de la limiter à modifier uniquement certains Rôles. Dans ce cas, le pouvoir de cette Réunion de Gouvernance spéciale est limité uniquement au traitement des Propositions dans l'intention déclarée et aux modifications dans les limites indiquées.
+
+####5.4.1 Participation
+Tous les Membres d'un Cercle peuvent participer à ses Réunions de Gouvernance. Le Facilitateur et le Secrétaire en exercice peuvent également participer même s'ils ne sont pas Membres du Cercle. Dans ce cas, ils deviennent Membres du Cercle temporaires pour la durée de la réunion.
+En tant que Représentant de Cercle pour un Cercle, vous pouvez inviter tout Partenaire à rejoindre la Réunion de Gouvernance de tout Cercle contenant immédiatement votre Cercle. Vous ne pouvez adresser cette invitation qu'à un seul Partenaire à la fois, et uniquement pour aider au traitement d'une Tension spécifique affectant le Cercle que vous représentez. Vous devez également ressentir cette Tension vous-même, et penser qu'il est logique de la traiter dans le Cercle. Votre invité devient Membre du Cercle temporaire pour la durée de la réunion ou jusqu'à ce que vous retiriez l'invitation. Votre invité peut représenter votre Cercle avec vous lors de la réunion, mais uniquement lors du traitement de cette Tension spécifique.
+Au-delà de ce qui précède, personne d'autre ne peut participer aux réunions de Gouvernance d'un Cercle.
+
+####5.4.2 Notification et durée
+Un Cercle ne peut organiser une Réunion de Gouvernance que si le Secrétaire a donné à tous les Membres du Cercle un préavis raisonnable pour la réunion. Au-delà de cela, il n'y a pas de quorum requis pour qu'un Cercle conduise une Réunion de Gouvernance, à moins qu'une Politique n’en précise un.
+Les Réunions de Gouvernance se terminent lorsqu'elles atteignent la durée initialement prévue par le Secrétaire. Le Secrétaire peut choisir de prolonger la durée pendant la réunion, mais uniquement si aucun Membre du Cercle ne s’y oppose.
+Tout Membre du Cercle qui manque tout ou partie d'une Réunion de Gouvernance est considéré comme ayant eu la possibilité de soulever des préoccupations concernant les Propositions qui y sont faites. Ainsi, un Cercle peut adopter des Propositions lors d'une Réunion de Gouvernance sans tenir compte des Membres absents.
+
+####5.4.3 Processus de réunion
+Le Facilitateur doit utiliser le processus suivant pour les Réunions de Gouvernance :
+Tour d’inclusion : chaque participant partage à son tour son état actuel ou propose un autre commentaire d'ouverture pour la réunion. Les réponses ne sont pas autorisées.
+Élaboration de l'ordre du jour et traitement des points : le Facilitateur établit un ordre du jour des Tensions à traiter, puis traite chaque point de l'ordre du jour à son tour.
+Tour de clôture : chaque participant partage à son tour une réflexion de clôture sur la réunion. Les réponses ne sont pas autorisées.
+À tout moment au cours de ce processus, un participant peut demander une pause ***«Time Out»***. Le Facilitateur peut choisir d'accepter ou de refuser cette demande. Pendant le Time Out, les participants peuvent discuter de questions administratives ou des règles de cette Constitution. Ils ne peuvent pas utiliser le Time Out pour travailler à la résolution d'une Tension, d'une Proposition ou d'une Objection. Le Facilitateur peut mettre fin à un Time Out à tout moment et reprendre le processus normal de réunion.
+Une Politique du Cercle peut faire des ajouts à ce processus, mais ne peut pas entrer en conflit avec les règles ou exigences définies dans le présent Article.
+
+####5.4.4 Elaboration de l’ordre du jour
+Le Facilitateur établit un ordre du jour de Tensions à traiter en sollicitant des points d'ordre du jour auprès de tous les participants. Le Facilitateur doit le faire lors de la réunion et non au préalable. Chaque participant peut ajouter autant de points à l'ordre du jour qu'il le souhaite en fournissant un bref libellé pour chacun, sans explication ni discussion autorisée. Les participants peuvent ajouter d'autres points à l'ordre du jour pendant la réunion, entre le traitement de tout point existant à l'ordre du jour.
+Pour une Réunion de Gouvernance régulière, le Facilitateur peut choisir l'ordre dans lequel traiter les points de l'ordre du jour. Cependant, à la demande d'un participant de la réunion, tout point de l'ordre du jour appelant à une élection doit précéder tous les autres. Pour une Réunion de Gouvernance spéciale prévue à la demande d'un participant, celui-ci peut choisir le classement des points de l'ordre du jour.
+Les points de l'ordre du jour sont traités un par un. Pour traiter une demande d'élection, le Facilitateur utilise le Processus d'Élection Intégrative. Pour traiter autre chose, le Facilitateur utilise le ***«Processus de Prise de Décision Intégrative»*** défini ci-dessous.
+
+###5.4.5 Processus de Prise de Décision Intégrative
+Le Facilitateur doit mettre en œuvre le Processus de Prise de Décision Intégrative comme suit :
+Présenter la Proposition : premièrement, le Proposeur peut décrire la Tension et présenter une Proposition pour y remédier. À la demande du Proposeur, le Facilitateur peut autoriser d'autres personnes à aider à élaborer une Proposition. Cependant, le Facilitateur doit concentrer cette aide uniquement sur l'obtention d'une Proposition initiale pour répondre à la Tension du Proposeur. Le Facilitateur doit interdire de discuter d'autres Tensions ou préoccupations concernant la Proposition.
+Questions de Clarification : une fois que le Proposeur a fait une Proposition, les autres peuvent poser des questions pour mieux comprendre la Proposition ou la Tension qui la sous-tend. Le Proposeur peut répondre à chaque question ou refuser de le faire. Le Facilitateur doit arrêter toute réaction ou opinion exprimée au sujet de la Proposition et empêcher toute discussion de quelque nature que ce soit. Les participants peuvent également demander au Secrétaire de lire la Proposition ou de montrer toute Gouvernance existante, au cours de cette étape ou à tout autre moment où le participant est autorisé à parler, et le Secrétaire doit le faire.
+Tour de réaction : ensuite, chaque participant, à l'exception du Proposeur, peut partager des réactions à la Proposition, une personne à la fois. Le Facilitateur doit immédiatement mettre fin à tout commentaire hors tour, à toute tentative d'engager d'autres personnes dans un dialogue et à toute réaction à d'autres réactions plutôt qu'à la Proposition.
+Possibilité de clarifier : ensuite, le Proposeur peut partager ses commentaires en réponse aux réactions et apporter des modifications à la Proposition. Cependant, l’intention première de tout amendement doit être de mieux répondre à la Tension du Proposeur et non aux Tensions soulevées par d’autres. Le Facilitateur doit immédiatement arrêter les commentaires de toute personne autre que le Proposeur ou le Secrétaire. Toute intervention du Secrétaire doit se concentrer uniquement sur la saisie de la Proposition modifiée.
+Tour d'Objection : ensuite, chaque participant, un par un, peut soulever des préoccupations à propos de l'adoption de la Proposition. Le Facilitateur doit : soit saisir ces préoccupations comme des Objections, soit les tester pour voir si elles répondent aux critères d'Objection et saisir celles qui y répondent. S'il n'y a pas d'Objection, la Proposition est adoptée. Lorsqu’il teste les préoccupations et capture les Objections, le Facilitateur doit interrompre et interdire les discussions ou les réponses de toute nature de toute personne autre que l'Objecteur.
+Intégration : s'il y a des Objections, le Facilitateur se concentre ensuite sur chacune d’elles, une à la fois. Pour chacune, les participants brainstorment pour trouver un changement potentiel à la Proposition afin de résoudre l'Objection. Le Facilitateur indique une Objection comme résolue lorsque l'Objecteur confirme que la Proposition modifiée ne déclencherait pas l'Objection, et que le Proposeur confirme qu'elle résout toujours la Tension. Au cours de cette étape, le Facilitateur doit appliquer les règles d'intégration décrites dans cet article. Une fois toutes les Objections résolues, le Facilitateur revient au Tour d'Objection avec la Proposition modifiée.
+
+###5.5 Rupture de Processus
+Une Rupture de Processus se produit lorsqu'un Cercle présente un comportement ou une évolution qui enfreint les règles de cette Constitution. Le Facilitateur ou le Secrétaire d'un Cercle peut déclarer une Rupture de Processus dans son propre Cercle ou dans un Sous-Cercle, en faisant appel à son jugement raisonnable. Tout Partenaire concerné peut demander à un Facilitateur d'examiner un Sous-Cercle afin d'y déceler une éventuelle Rupture de Processus. Le Facilitateur est redevable d’auditer les réunions et les enregistrements d'un Sous-Cercle sur demande et de déclarer une Rupture de Processus lorsqu’il en découvre une.
+
+####5.5.1 Rupture pour échec de Gouvernance
+Le Facilitateur d'un Cercle peut également déclarer une Rupture de Processus dans le Cercle si une Proposition ne parvient pas à une résolution après que les personnes impliquées ont passé un temps et des efforts raisonnables à chercher une solution.
+
+####5.5.2 Restauration du Processus
+Chaque fois qu'une partie autorisée déclare une Rupture de Processus au sein d'un Cercle, les événements suivants se produisent :
+le Facilitateur acquiert l’autorité de juger de la logique et de la pertinence des arguments avancés pour valider les Propositions ou Objections dans le Cercle ; et
+le Facilitateur du Super-Cercle prend un Projet pour restaurer la régularité de la procédure au sein du Cercle ; et
+le Facilitateur du Super-Cercle acquiert l’autorité de prendre le relais en tant que Facilitateur ou Secrétaire du Cercle ; et
+le Facilitateur du Super-Cercle peut affecter un Leader de Cercle supplémentaire au Cercle pendant la durée de la Rupture de Processus. Toutes les décisions que cette personne prend en tant que Leader du Cercle l'emportent et empêchent toute décision contradictoire d'un autre Leader du Cercle.
+Ces pouvoirs prennent fin dès que le processus régulier est rétabli dans le Cercle, selon l'évaluation du Facilitateur du Super-Cercle.
+Si le Cercle en Rupture de Processus n'a pas de Super-Cercle, alors les pouvoirs ci-dessus sont tous dévolus à son propre Facilitateur.
+
+####5.5.3 Escalade de la Rupture de Processus
+Une Rupture de Processus dans un Cercle n'est pas automatiquement considérée comme une Rupture de Processus de son Super-Cercle. Cependant, si elle reste non résolue pendant un temps déraisonnable, le Super-Cercle est également considéré en Rupture de Processus.
 
-## Preamble
-
-The ***“Ratifiers”*** hereby adopt this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. In so doing, the Ratifiers cede their power to govern and run the Organization into the rules and processes herein, except for any powers that the Ratifiers lack the authority to delegate. The Ratifiers or their successors may amend this Constitution or repeal it using whatever authority they relied upon to adopt it, provided that any amendments are made in writing.
-
-Any existing policies and systems the Organization had in effect before adopting this Constitution continue in full force after adoption, however they may not be expanded upon or modified except by the authorities and processes defined herein. These legacy policies and systems further lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
-
-The Organization may designate other ***“Partners”*** in addition to the Ratifiers to assist with its governance and operations, provided any such Partners have also agreed to abide by all relevant terms of this Constitution. Each Partner may rely upon the authorities granted by this Constitution to the full extent that the Ratifiers held such authorities before adopting it. All of the responsibilities and constraints on a Partner come from this Constitution and the outputs of its processes, and from any legal duties the Partner has to the Organization and while acting on its behalf. No implicit expectations or constraints have any power over a Partner, and nor do any dictates issued outside the authority granted by this Constitution.
-
-
-## Article 1: Organizational Structure
-
-### 1.1 Role Definition
-
-A ***“Role”*** is an organizational construct that a person can fill and then energize on behalf of the Organization.  A Role definition consists of a descriptive name and one or more of the following:
-
-- **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express.
-- **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its purpose.
-- **(c)** one or more ***“Accountabilities”***, which are ongoing activities the Role will manage and enact in service of other Roles or to support its Purpose.
-
-A Role may also hold ***“Policies”***, which are grants or constraints of authority, or special rules that apply within that Role.
-
-### 1.2 Role Assignment
-
-A Role may control who fills another Role by holding a Domain of assignments to that Role. Anyone controlling such a Domain may assign the target Role to anyone willing to fill it, including to several people simultaneously. Whoever fills a Role becomes its ***"Role Lead"***. A Role Lead may later resign from filling the Role at any time, unless they’ve agreed otherwise. Whoever controls the assignment may also remove a Role Lead from the Role at any time. A Policy may further constrain Role assignments or removals.
-
-#### 1.2.1 Default Assignment
-
-When a Role is unfilled, anyone who controls the assignment is automatically considered a Role Lead of the unfilled Role as well.
-
-When a Role is filled but not by anyone who is a Partner of the Organization, then any Partner who controls the assignment is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners assigned to the Role are not actively fulfilling the relevant responsibilities and duties.
-
-#### 1.2.2 Focusing an Assignment
-
-A Role assigner may focus an assignment on only a specific area or context, if all elements in the Role definition are still relevant within that focus. When a focus is used, each assignment focus is treated like an entirely separate Role, and the Role's Purpose, Accountabilities, and Domains apply only within the focus specified for each assignment.
-
-### 1.3 Responsibilities of Role-Filling
-
-When filling a Role, you have the following responsibilities:
-
-#### 1.3.1 Processing Tensions
-
-You are responsible for comparing the actual expression of your Role’s Purpose and Accountabilities to your vision of their ideal potential, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.
-
-#### 1.3.2 Processing Purpose & Accountabilities
-
-You are responsible for regularly considering how to enact your Role's Purpose and each Accountability, by defining:
-
-- **(a)** ***“Next-Actions”***, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
-- **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.
-
-#### 1.3.3 Breaking Down Projects
-
-You are responsible for regularly defining Next-Actions for each of your Role's active Projects.
-
-#### 1.3.4 Tracking Projects, Next-Actions, & Tensions
-
-You are responsible for capturing and tracking all Projects and Next-Actions for your Role in written lists. You must also track Tensions you intend to resolve, at least until you process them into Projects or Next-Actions. You are also responsible for regularly reviewing and updating these lists, to maintain them as a trusted source of the Role’s potential work.
-
-#### 1.3.5 Executing Next-Actions
-
-Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever would add the most value to the Organization.
-
-### 1.4 Circles
-
-A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***.
-
-#### 1.4.1 Breaking Down Roles
-
-The inside of every Role is a Circle. This Circle can hold its own Roles and Policies to break down and organize its work. This does not apply to the Roles defined in Appendix A, which may not be further broken down.
-
-A Role's internal Circle is considered a ***“Sub-Circle”*** of the broader Circle that holds the Role, while that broader Circle is its ***“Super-Circle”***.
-
-#### 1.4.2 Delegating Domains
-
-When a Circle grants a Domain to one of its Roles, any Role Lead for that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall within the Circle's own Domains, or that are only relevant within its own internal processes.
-
-Once a Role controls a Domain, it may create Policies governing that Domain within its own Governance. However, the Circle that delegated the Domain retains the right to define its own Policies governing that Domain as well. Any such Policies trump those defined by the Role in the event of a conflict.
-
-Granting a Domain to a Role does not delegate any rights the Circle has to control spending of money or assets, unless explicitly specified.
-
-#### 1.4.3 Anchor Circle
-
-The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy.
-
-The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
-
-#### 1.4.4 Linking Into Circles
-
-A Role may link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it.
-
-Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and another Circle may not change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.
-
-A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.
-
-### 1.5 Circle Leads
-
-Anyone serving as a Role Lead for a Role also automatically fills a ***“Circle Lead Role”*** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role has the definition given in Appendix A. The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherwise.
-
-#### 1.5.1 Defining Priorities & Strategies
-
-A Circle Lead may judge the relative value of potential Circle efforts to resolve priority conflicts across Roles. A Circle Lead may also define a ***“Strategy”*** for the Circle, or many Strategies, which are heuristics that guide prioritization in the Circle.
-
-#### 1.5.2 Routing External References
-
-Whenever Governance outside the Circle references the Circle itself or any Role in the Circle, a Circle Lead may update that reference to instead refer to another Role in the Circle. This clarification is not considered a change to that Circle's Governance.
-
-#### 1.5.3 Amending the Circle Lead Role
-
-A Circle may not modify the Purpose of its Circle Lead Role, nor remove the Role.
-
-A Circle may add Accountabilities or Domains to its Circle Lead Role, and those additions automatically apply to every Sub-Circle's Circle Lead Role as well, recursively. A Circle may not add Accountabilities or Domains just to its own Circle Lead Role.
-
-A Circle may remove any Accountabilities, Domains, authorities, or functions of its own Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant element from the Circle's Circle Lead Role, for as long as the delegation remains in place.
-
-
-## Article 2: Tactical Meetings
-
-In service of a Role, any Partner may convene a ***“Tactical Meeting”*** to engage other Roles in their responsibilities and duties.
-
-### 2.1 Attendance
-
-The Partner convening a Tactical Meeting must name the Roles desired in that meeting. All Partners serving as Role Leads of those Roles are then invited to attend, unless the convener narrows the invite to include only a subset of Role Leads for a Role.
-
-### 2.2 Meeting Process
-
-The Partner convening a Tactical Meeting must find someone to facilitate it. Unless a Policy says otherwise, that person must use the following process:
-
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Checklist Review:** Each participant verifies completion of any recurring actions that they are regularly reporting on for their Roles in the meeting.
-- **(c) Metrics Review:** Each participant shares any metrics that they are regularly reporting on for their Roles in the meeting.
-- **(d) Progress Updates:** Each participant highlights progress in any Project or other initiative that they are regularly reporting on for their Roles in the meeting. Participants may only share progress made since a prior report, and not the general status of any work.
-- **(e) Build Agenda:** Participants build an agenda of items to process within the meeting. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items after this step, between the processing of any existing agenda items.
-- **(f) Triage Tensions:** To process each agenda item, the agenda item owner may make requests of another participant, either in that participant's general capacity as a Partner, or to a Role that participant represents in the meeting. However, requests to a Role may only be made in service of a Role the requester represents in the meeting. The person facilitating the meeting manages the time allowed for each agenda item to allow space for the entire agenda, and may cut off processing any item after its due share of meeting time.
-- **(g) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
-
-A Policy of a Circle may specify an alternate process or amend this default process for Tactical Meetings called by any of the Circle's Roles.
-
-### 2.3 Surrogate for Absent Members
-
-If any Role defined by a Circle and invited to a Tactical Meeting is unrepresented in the meeting for any reason, a Circle Lead of that Role's Super-Circle may instead represent that Role during the meeting.
-
-
-## Article 3: Duties to Others
-
-As a Role Lead, you have the following duties to other Role Leads in the Organization when they're acting on behalf of their own Roles.
-
-### 3.1 Duty of Transparency
-
-You have a duty to provide transparency in any of the following areas upon request:
-
-- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles.
-- **(b) Relative Priority:** You must share your judgment of the relative priority of any of your Role's Projects or Next-Actions vs. anything else competing for your attention.
-- **(c) Projections:** You must provide a projection of when you expect to complete any of your Role's Projects or Next-Actions. A rough estimate is enough, considering your current context and priorities. Detailed analysis or planning is not required, and this projection is not a commitment in any way. Unless Governance says otherwise, you have no duty to track the projection or follow-up with the recipient if it changes.
-- **(d) Checklist Items:** You must verify completion of any recurring actions that you perform for your Roles or as a Partner of the Organization. If requested, you must continue to share these verifications regularly, until you believe they are no longer useful.
-- **(e) Metrics:** You must share any metrics you collect in your Roles or as a Partner of the Organization. If requested, you must continue to share these metrics regularly, until you determine they are no longer useful.
-- **(f) Progress Updates:** You must share a summary of progress you've made in your Role or towards any of your Role's Projects since the last update you shared. If requested, you must continue to share these updates regularly, until you determine they are no longer useful.
-- **(g) Other Information:** You must share any other information that's relevant to your Roles and readily available to you.
-
-### 3.2 Duty of Processing
-
-You have a duty to promptly process messages and requests, as follows:
-
-- **(a) Requests for Processing:** Others may ask you to process the Purpose or any Accountability or Project of your Role. You must then determine and communicate a Next-Action to move it forward, if there are any you could take. If there are not, you must instead share what you’re waiting for before you can take a Next-Action. If whatever you share is part of a broader outcome you are pursuing in your Role, you must also capture and communicate that as a Project.
-- **(b) Requests for Projects & Next-Actions:** Others may ask you to take on a specific Next-Action or Project in your Role. You must accept and track it if you believe it would make sense to work towards in your Role, at least in the absence of competing priorities. If you don't, then you must either explain your reasoning, or suggest something else you believe will meet the requester’s goal instead.
-- **(c) Requests to Impact Domain:** Others may ask to impact a Domain controlled by your Role. You must allow the impact if you see no reason it will reduce your capacity to enact your Role's Purpose or Accountabilities. If you do see such a reason, you must explain it to the requester.
-
-### 3.3 Duty of Prioritization
-
-You have a duty to prioritize your attention in alignment with the following:
-
-- **(a) Processing:** You must generally prioritize processing inbound messages from other Roles over executing your own Next-Actions. However, you may delay processing messages until you can batch process at a convenient time, as long as your processing is still prompt. Processing includes engaging in any duties in this Article, and then sharing how you processed the message upon request. Processing does not include executing upon any Next-Actions or Projects you capture.
-- **(b) Meetings:** You must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions, but only when this prioritization is explicitly requested for a specific meeting. You may still decline the request if you already have plans scheduled over the meeting time.
-- **(c) Circle Priorities:** When choosing what to work on, you must consider any official Strategies or relative prioritizations of the Circle holding your Role or any Super-Circle thereof. Official priorities are those defined by a Circle Lead, or by any other Roles or processes with the authority to resolve priority conflicts and define Strategies for a Circle. You must then treat these official priorities as more important to the Organization than your own individual priorities or your own judgment of the Organization's priorities.
-- **(d) Deadlines:** If the Governance or any official Strategy or prioritization of a Circle includes a deadline specifying when something must be done by, you do not necessarily have to meet that deadline. Instead, you must interpret that as an official prioritization of any actions needed to hit that deadline over any other actions for that Circle, and act accordingly. A Circle Lead or another Role or process with the authority to resolve priority conflicts across Roles may overrule this prioritization.
-
-
-## Article 4: Governance
-
-Changing a Circle's Governance requires using the ***“Governance Process”*** defined herein.
-
-### 4.1 Governance Participants
-
-Each Circle has a group of ***"Circle Members"*** who may represent its Roles in its Governance Process.
-
-A Circle's Circle Members are those Partners filling its Circle Lead Role, as well as each Partner serving as Role Lead for a Role in the Circle. If a Role has multiple Role Leads, a Circle may adopt a Policy to limit how many of them represent that Role as Circle Members in its Governance Process.
-
-#### 4.1.1 Circle Reps
-
-Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's ***"Circle Rep"*** to help represent that Circle within any broader Circle containing it. The selected Circle Rep fills the ***"Circle Rep Role"*** in the Circle, as defined in Appendix A.
-
-The Circle must use the Integrative Election Process defined herein to select a Circle Rep, unless a Policy defines an alternate process. Only a Circle's Circle Members are eligible to serve as its Circle Rep. Anyone serving as a Circle Lead for the Circle may not also serve as its Circle Rep. No more than one person may serve as a Circle's Circle Rep at a time, unless a Policy of a containing Circle allows it.
-
-The selected Circle Rep becomes a Circle Member of any Circle containing that Circle, with the authority to represent their Circle just like a Circle Lead. A containing Circle may limit or prevent these Circle Reps from becoming its Circle Members via a Policy, but only if its Roles have another way to enjoy comparable representation within that Circle.
-
-A Circle may add Accountabilities or Domains to its own Circle Rep Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose or any Accountabilities on the Circle Rep Role, nor remove the Role.
-
-#### 4.1.2 Facilitator and Secretary
-
-Any Circle with more than one Circle Member includes a ***“Facilitator Role”*** and a ***“Secretary Role”***, as defined in Appendix A. The person acting in each becomes the Circle’s ***“Facilitator”*** and ***“Secretary”*** respectively. Any Circle Member of a Circle may request an election at any time to fill or replace someone as the Circle's Facilitator or Secretary.
-
-The Circle must use the Integrative Election Process defined herein to select a Facilitator and Secretary. No Role or Policy may assign these Roles or remove an assignment via any other means, nor change this required process. Normally, the only candidates eligible for these elections are a Circle's Circle Members. However, a Policy of the Circle or any Super-Circle may add or limit eligible candidates.
-
-A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose, Domain, or any Accountabilities on either Role, nor remove the Role.
-
-### 4.2 Scope of Governance
-
-Within a Circle's Governance Process, its Circle Members may:
-
-- **(a)** define, amend, or remove the Circle's Roles; and
-- **(b)** define, amend, or remove the Circle's Policies; and
-- **(c)** move the Circle's own Roles or Policies into a Sub-Circle or any Sub-Circle thereof, but only if they enact the Purpose or Accountabilities of that Sub-Circle; and
-- **(d)** move Roles or Policies from within a Sub-Circle or any Sub-Circle thereof out into the Circle, but only if they are no longer relevant to enacting the Purpose or Accountabilities of that Sub-Circle; and
-- **(e)** hold elections for any elected Role within the Circle.
-
-No other decisions are valid outputs from a Circle's Governance Process.
-
-#### 4.2.1 Scope of Policy
-
-A Policy may only be one or more of the following:
-
-- **(a)** a constraint on the authority of one or more of the Circle's contained Roles; or
-- **(b)** a grant of an authority the Circle or Circle Lead holds to one or more Roles; or
-- **(c)** a grant of authority that allows people or Roles not otherwise authorized to control or impact one of the Circle's Domains, or a constraint on how they may do so when otherwise authorized; or
-- **(d)** a rule that changes a default rule or process in this Constitution, if that change is explicitly allowed.
-
-A Policy that grants or constrains authority applies in all Sub-Circles as well, recursively, unless otherwise stated. A Policy that changes a default rule or process in the Constitution applies only within the Circle that holds the Policy, or, if explicitly stated, within all Sub-Circles as well, recursively. In the latter case, a Sub-Circle may still override that Policy via one of its own, unless explicitly forbidden in the original Policy.
-
-#### 4.2.2 Striking Invalid Governance
-
-Any Partner may ask a Circle's Secretary to rule on the validity of any Governance within that Circle or any Sub-Circle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Circle's records. After doing so, the Secretary must promptly communicate what they struck and why to all of that Circle's Circle Members.
-
-### 4.3 Governance Process
-
-Any Circle Member of a Circle may initiate its Governance Process by proposing a change to its Governance. To do so, the ***“Proposer”*** must first share a ***“Proposal”*** in writing with all other Circle Members, using any communication channel allowed by the Secretary. Those other Circle Members may then ask clarifying questions, share reactions, and raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***.
-
-Once each Circle Member confirms they have no Objections to a Proposal, it is adopted and amends the Circle's Governance. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle adopts the Proposal. After any such effort, all Circle Members must be given another opportunity to raise Objections. A Circle may adopt a Policy to define a time limit for raising Objections, after which anyone who has not responded is assumed to have no Objections.
-
-When making Proposals or raising Objections, a Circle Member may only represent the Roles in the Circle that they either fill as Role Lead or represent as Circle Rep. A Circle Member may also represent a Role that they have permission to temporarily represent from one of its Role Leads, until that permission expires or is withdrawn.
-
-#### 4.3.1 Proposal Requirements
-
-For a Proposal to be valid, the Proposer must be able to:
-
-- **(a)** describe a Tension that the Proposal would address for one of the Proposer's Roles; and
-- **(b)** share an example of an actual past or present situation illustrating that Tension; and
-- **(c)** give a reasonable explanation of how the Proposal would have reduced the Tension in that example.
-
-If at any point it becomes clear to the Facilitator that a Proposal does not meet these criteria, the Facilitator must discard the Proposal.
-
-#### 4.3.2 Objection Requirements
-
-A concern about adopting a Proposal only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the following criteria:
-
-- **(a)** The Proposal would reduce the capacity of the Circle to enact its Purpose or Accountabilities.
-- **(b)** The Proposal would limit the Objector's capacity to enact the Purpose or an Accountability of a Role the Objector represents in the Circle, even if the Objector filled no other Roles in the Organization.
-- **(c)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal.
-- **(d)** The Proposal would necessarily cause the impact, or, if it might cause the impact, the Circle wouldn't have an adequate opportunity to adapt before significant harm could result.
-
-However, regardless of the above criteria, a concern always counts as an Objection if adopting the Proposal would violate a rule in this Constitution.
-
-#### 4.3.3 Testing Potential Objections
-
-The Facilitator may test whether a concern counts as an Objection by asking the Objector if the concern meets the required criteria, and how. When assessing responses, the Facilitator may only judge whether the Objector presented arguments for each criteria using logical reasoning. The Facilitator may not judge on the basis of an argument’s accuracy or the importance of addressing it.
-
-When an Objection is claimed because adopting a Proposal would violate the Constitution, the Facilitator may ask the Circle’s Secretary to interpret if that's true. If the Secretary rules that it is not, the Facilitator must then dismiss the Objection.
-
-#### 4.3.4 Rules of Integration
-
-While attempting to resolve an Objection, the following rules apply:
-
-- **(a)** The Facilitator must test an Objection if requested by any Circle Member. If it fails to meet the required criteria, the Facilitator must discard it.
-- **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. If the Facilitator believes the Objector is not making a good faith attempt to do so, the Facilitator must deem the Objection abandoned and drop it.
-- **(c)** Any Circle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator believes the Proposer is not answering them in good faith, the Facilitator must deem the Proposal dropped.
-- **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve the Tension in at least one of the examples the Proposer used to illustrate the Tension. If needed, the Proposer may add another example to illustrate why the amended Proposal would fail to resolve the Tension. If the Facilitator believes the Proposer is unable or unwilling to do so, the Facilitator must deem the Proposal dropped.
-
-#### 4.3.5 Integrative Election Process
-
-Any Circle Member may also initiate the Circle's Governance Process by calling for an election for a Circle Rep, Facilitator, or Secretary. The acting Facilitator must then enact the ***“Integrative Election Process”*** as follows:
-
-- **(a) Describe Role:** First, the Facilitator identifies the target Role and chooses a term for the election. The Facilitator may also present other information relevant to the election. During this step and the next, no one may comment on any potential candidates.
-- **(b) Nominate Candidates:** Each Circle Member uses a ballot or another private forum to name the eligible candidate whom the Circle Member believes is the best fit for the Role. Circle Members must label their ballot with their own name as well, and no one may abstain or nominate multiple people.
-- **(c) Nomination Sharing Round:** During this step, the Facilitator shares each nomination with all Circle Members. For each one, the nominator states why he or she believes their nominee would be a good fit for the Role, and no one else responds. The nominator may not comment on other potential candidates beyond their nominee.
-- **(d) Nomination Change Round:** Once all nominations are shared, any Circle Member may change their nomination and explain the reason for the change. No responses are allowed.
-- **(e) Make a Proposal:** The Facilitator counts the nominations, and makes a Proposal to elect the candidate with the most. If there is a tie, the Facilitator may do any one of the following: (i) if only one of the tied candidates has nominated himself or herself, propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) blindly select one of the tied candidates randomly, and propose that person; or (iv) go back to the previous step and ask each Circle Member who nominated someone other than a tied candidate to change that nomination to one of the tied candidates.
-- **(f) Objection Round:** The Facilitator asks each Circle Member if they see any Objections to the Proposal. If any Objections surface, the Facilitator may either allow discussion to attempt to resolve them, or discard the Proposal. If discarded, the Facilitator must then go back to the prior step in this process, ignore all nominations for the discarded candidate, and apply the rules of the prior step to select another candidate to propose instead.
-
-A Circle may adopt a Policy to define a time limit for nominating a candidate or responding to a Proposal during the Integrative Election Process. After that time limit is reached, the Facilitator must exclude anyone who has not responded from the remainder of the process.
-
-#### 4.3.6 Surrogates for Facilitator & Secretary
-
-A surrogate may act as Facilitator or Secretary while the Role is unfilled. A surrogate may also fill in when the normal Facilitator or Secretary is unavailable when needed, or requests a surrogate for any reason.
-
-Whenever a surrogate is needed, the surrogate is, in this order of precedence:
-
-- **(a)** someone specified by the person to be replaced; or
-- **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle;
-- **(c)** the Circle Lead of the Circle, or, if there are multiple Circle Leads, the first one to declare themselves acting as surrogate; or
-- **(d)** the first Circle Member to declare themselves acting as surrogate.
-
-### 4.4 Governance Meetings
-
-In addition to processing Proposals made asynchronously outside of meetings, each Circle will also hold regular ***"Governance Meetings"*** to enact the Circle’s Governance Process in real time. At any point while the Circle is processing a Proposal asynchronously, any Circle Member may request the Proposal go to a Governance Meeting for real-time processing instead, and the asynchronous processing must then immediately stop.
-
-The Circle's Secretary is responsible for scheduling its Governance Meetings, and its Facilitator is responsible for facilitating them in alignment with the rules herein. In addition to any regularly-scheduled Governance Meetings of the Circle, the Secretary must schedule special Governance Meetings promptly upon request of any Circle Member. The requester may further specify an intention for a special Governance Meeting and any limits on what the meeting may change. This may include focusing the meeting on a specific Tension, or limiting it to only modifying certain Roles. In that case, the authority of that special Governance Meeting is constrained to only processing Proposals for the stated intent, and only making changes within the stated limits.
-
-#### 4.4.1 Attendance
-
-All Circle Members of a Circle may participate in its Governance Meetings. The acting Facilitator and Secretary may also participate even if they are not Circle Members of the Circle. In that case, they become temporary Circle Members for the duration of the meeting.
-
-As a Circle Rep for a Circle, you may invite any Partner to join the Governance Meeting of any Circle immediately containing your Circle. You may only extend this invitation to one Partner at a time, and only to aid in the processing of a specific Tension affecting the Circle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. Your invited guest becomes a temporary Circle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Circle along with you in the meeting, but only while processing that specific Tension.
-
-Beyond the above, no one else may participate in a Circle’s Governance Meetings.
-
-#### 4.4.2 Notice & Duration
-
-A Circle may only conduct a Governance Meeting if the Secretary gave all Circle Members reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Circle to conduct a Governance Meeting, unless a Policy specifies one.
-
-Governance Meetings end once they reach the duration initially scheduled by the Secretary. The Secretary may choose to extend the duration within the meeting, but only if no Circle Member requests otherwise.
-
-Any Circle Member who misses part or all of a Governance Meeting counts as having had a chance to raise concerns about any Proposals made therein. Thus, a Circle may adopt Proposals in a Governance Meeting without regard for absent members.
-
-#### 4.4.3 Meeting Process
-
-The Facilitator must use the following process for Governance Meetings:
-
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
-- **(c) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
-
-At any point during this process, a participant may request a ***“Time Out”*** pause. The Facilitator may choose to grant or deny this request. During the Time Out, participants may discuss administrative issues or the rules of this Constitution. They may not use the Time Out to work towards the resolution of a Tension, Proposal, or Objection. The Facilitator may end a Time Out at any point and resume the normal meeting process.
-
-A Policy of the Circle may add to this process, but may not conflict with any rules or requirements defined in this Article of the Constitution.
-
-#### 4.4.4 Agenda Building
-
-The Facilitator builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitator must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items during the meeting, between the processing of any existing agenda items.
-
-For a regular Governance Meeting, the Facilitator may choose the order in which to process agenda items. However, on request of a meeting participant, any agenda item calling for an election must go before all others. For a special Governance Meeting scheduled on request of a participant, that participant may choose the agenda order.
-
-Agenda items are processed one at a time. To process a request for an election, the Facilitator uses the Integrative Election Process. To process anything else, the Facilitator uses the Integrative Decision-Making Process defined below.
-
-#### 4.4.5 Integrative Decision-Making Process
-
-The Facilitator must enact the ***“Integrative Decision-Making Process”*** as follows:
-
-- **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address it. On the Proposer's request, the Facilitator may allow others to help craft a Proposal. However, the Facilitator must focus this help solely on getting to an initial Proposal to address the Proposer's Tension. The Facilitator must disallow discussing other Tensions or concerns about the Proposal.
-- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, others may ask questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must stop any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Participants may also ask the Secretary to read the Proposal or show any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
-- **(c) Reaction Round:** Next, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop any out-of-turn comments, any attempts to engage others in a dialog, and any reactions to other reactions instead of to the Proposal.
-- **(d) Option to Clarify:** Next, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. The Facilitator must immediately stop comments by anyone other than the Proposer or Secretary. Any engagement by the Secretary must focus solely on capturing the amended Proposal.
-- **(e) Objection Round:** Next, each participant, one at a time, may raise concerns about adopting the Proposal. The Facilitator must either capture these concerns as Objections, or test them to see if they meet the Objection criteria and capture any that do. If there are no Objections, the Proposal is adopted. While testing concerns and capturing Objections, the Facilitator must stop and disallow discussion or responses of any kind from anyone other than the Objector.
-- **(f) Integration:** If there are Objections, the Facilitator then focuses on each one, one at a time. For each, the participants brainstorm to find a potential amendment to the Proposal to resolve the Objection. The Facilitator marks an Objection resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that it still addresses the Tension. During this step, the Facilitator must apply the rules of integration described in this Article. Once all Objections are resolved, the Facilitator moves back to the Objection round with the amended Proposal.
-
-### 4.5 Conflicts of Interpretation
-
-As a Partner, your interpretation of this Constitution and the Organization's Governance may sometimes conflict with another Partner's. When that happens, either party may ask the Secretary of any affected Circle to rule on which interpretation to use. After a Secretary responds, everyone must align with that Secretary's ruling until the relevant text or context changes.
-
-After ruling on an interpretation, a Secretary may publish the ruling and the logic behind it. If published, the Secretary of that Circle and any contained Circles must attempt to align with that logic in any future rulings. However, a Secretary may still contradict it once a compelling new circumstance renders the logic obsolete.
-
-You may appeal a Secretary's interpretation to the Secretary of any Super-Circle. A Super-Circle Secretary may overrule the interpretation of any Sub-Circle Secretary.
-
-### 4.6 Process Breakdown
-
-A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitator or Secretary of a Circle may declare a Process Breakdown in their own Circle or any Sub-Circle, using their reasonable judgment.
-
-#### 4.6.1 Breakdown from Failed Governance
-
-A Circle's Facilitator may also declare a Process Breakdown in the Circle if a Proposal fails to reach a resolution after those involved spend a reasonable amount of time and effort seeking resolution.
-
-#### 4.6.2 Process Restoration
-
-Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
-
-- **(a)** the Facilitator gains the authority to judge the logic and relevance of any arguments made to validate Proposals or Objections in the Circle; and
-- **(b)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
-- **(c)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle; and
-- **(d)** the Facilitator of the Super-Circle may assign an additional Circle Lead to the Circle for the duration of the Process Breakdown. Any decisions that person makes as Circle Lead trumps and prevents any conflicting decision by another Circle Lead.
-
-These authorities end as soon as due process is restored in the Circle, as assessed by the Facilitator of the Super-Circle.
-
-If the Circle in Process Breakdown has no Super-Circle, then the powers above all vest with its own Facilitator instead.
-
-#### 4.6.3 Escalation of Process Breakdown
-
-A Process Breakdown in one Circle is not automatically considered a Process Breakdown of its Super-Circle. However, if it remains unresolved for an unreasonable time, then the Super-Circle is also considered in a Process Breakdown.
-
-
-## Article 5: Authority of Role Leads
-
-As a Role Lead, you have the authority to take any action or make any decision to enact your Role’s Purpose or Accountabilities, as long as you don't break a rule defined in this Constitution. When prioritizing and choosing among your potential actions, you may use your own reasonable judgment of the relative value to the Organization of each.
-
-### 5.1 Constraints on Authority
-
-As a Role Lead, you must honor the following constraints on your authority.
-
-#### 5.1.1 Don't Violate Policies
-
-While acting in a Role, you may not violate any Policies of the Role itself or of any Circle containing the Role.
-
-#### 5.1.2 Get Permission Before Impacting Domains
-
-In service of your Role, you have the authority to impact and control your Role's Domains.
-
-You may also impact any Domain held by a Circle containing your Role and not further delegated, or any Domain such a Circle itself may impact. But if you believe your impact will be substantially difficult or expensive to undo, you need to get permission.
-
-You may not exert control or cause a material impact on a Domain delegated to a Role or Circle that doesn't contain your Role, unless you get permission. Nor may you do so on a Domain owned by another sovereign entity without permission.
-
-When you need permission to impact a Domain, you may get it from whomever controls that Domain. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domain to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domains owned by any Role in the Organization that your announcement reached. You may assume a written announcement has reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Policy may change or constrain this process.
-
-#### 5.1.3 Get Authorization Before Spending Money
-
-You may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Role that already has control of those resources for spending purposes. It counts as spending if you dispose of significant property of the Organization, or significantly limit any of its rights.
-
-To get authorized to spend, you must announce your intent to spend in writing to the Role you're seeking authorization from. You must share this announcement where all Partners serving as Role Leads of that Role or within that Role will typically see it. Your statement must include the reason for the spending, and the Role you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration, and you may not proceed with the spending if escalated. However, a Role Lead of the Role you're seeking authorization from may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Role gains control of those resources. You may spend them for your stated purpose, or further authorize others to. The Role you got this authorization from also loses this control, however a Role Lead of that Role may revoke the authorization at any time.
-
-A Policy may change this process in any way, or directly authorize a Role to control spending of the Circle's resources.
-
-### 5.2 Interpretation Authority
-
-As a Partner, you may use your reasonable judgment to interpret this Constitution and anything under its authority. You may further interpret how these apply within any specific situation you face, and act based on your interpretations. However, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it, and within any official interpretation rulings of that Circle or any Super-Circle thereof. You may not use any interpretations that conflict with that context or those rulings.
-
-### 5.3 Individual Initiative
-
-As a Partner, in some cases you are authorized to take ***“Individual Initiative”*** by acting beyond the authority of your Roles or by breaking rules in this Constitution.
-
-#### 5.3.1 Allowed Situations
-
-You may only take Individual Initiative when all of the following are true:
-
-- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization.
-- **(b)** You believe your action would resolve or prevent more Tension for the Organization than it would likely create.
-- **(c)** Your action would not commit the Organization to any spending beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Policies or Domains, you believe much value would be lost from delaying to get permission or change Governance.
-
-#### 5.3.2 Communication & Restoration
-
-Upon taking Individual Initiative, you must explain your action to any Role Leads who you believe may be significantly impacted. Upon request of any such Role Lead, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Role Lead.
-
-You must prioritize the communication and restoration required by this section over your regular work. However, a Circle Lead of a Circle that contains all Roles affected by your action may change this default priority.
-
-
-## Article 6: People & Partnership
-
-### 6.1 Partner Relationships
-
-When the Organization grants Partner status to someone, it creates a ***“Partner Relationship”*** between that person and the Organization. Any promises either party makes to the other in conjunction with the grant of Partner status are part of that Partner Relationship. Unless otherwise agreed, each party needs the other's consent to change these agreements. However, either party may still end the Partner Relationship without the consent of the other. Doing so immediately ends that person's rights and responsibilities as a Partner.
-
-### 6.2 Relational Agreements
-
-The Organization's Partners may make ***“Relational Agreements”*** with each other. These are agreements about how the Partners will relate together or fulfill their general functions as Partners. They must focus on shaping behaviors that generally underpin work. They may not set expectations of work to do in a Role, nor expectations about how a Partner will prioritize across different Roles. Further, they may only specify concrete acts to do or behavioral constraints to honor. They may not include promises to achieve specific outcomes or embody abstract qualities.
-
-As a Partner, you may request a Relational Agreement of another Partner for your own personal preferences or to serve a Role you fill. That Partner may accept or reject the requested Relational Agreement based on their own personal preferences. Either party may later terminate the agreement without the consent of the other party, unless otherwise agreed.
-
-As a Partner, you have a duty to align your behavior with any written Relational Agreements you have made. Anyone facilitating a meeting or process may also enforce these Relational Agreements during that meeting or process, as long as they don't conflict with anything defined in this Constitution.
 
 ---
-
-# **Appendix A**
-
-## Circle Lead
-
-**Purpose:** _The Circle Lead holds the Purpose of the overall Circle._
-
-**Domains:**
-
-- Role assignments for the Circle's Roles
-
-**Accountabilities:**
-
-_The Circle Lead holds all Accountabilities on the Circle to the extent they are not covered by the Circle's Roles or processes._
-
-## Circle Rep
-
-**Purpose:** Tensions relevant to process in a broader Circle channeled out and resolved.
-
-**Accountabilities:**
-
-- Seeking to understand Tensions conveyed by Role Leads within the Circle
-- Discerning Tensions appropriate to process within a broader Circle that holds the Circle
-- Processing Tensions within a broader Circle to remove constraints on the Circle
-
-## Facilitator
-
-**Purpose:** Circle governance and operational practices aligned with the Constitution.
-
-**Accountabilities:**
-
-- Facilitating the Governance Process and Tactical Meetings of the Circle or for its Roles
-- Coaching other Circle Members on the Constitution's rules and processes, either on request or when needed for effective meetings
-- Auditing the meetings and records of Sub-Circles on request, and declaring a Process Breakdown if one is discovered
-
-## Secretary
-
-**Purpose:** Steward the Circle’s governance records and stabilize its record-keeping process.
-
-**Domains:**
-
-- All governance records of the Circle
-
-**Accountabilities:**
-
-- Scheduling Governance Meetings and Tactical Meetings for the Circle
-- Capturing and publishing the outputs of Governance Meetings and Tactical Meetings
-- Requesting elections for elected Roles after each term expires
-- Interpreting the Constitution and anything under its authority upon request
-
----
-
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
+Cette œuvre est placée sous licence  <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. (CC BY-SA 4.0)
 ---
